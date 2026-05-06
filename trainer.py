@@ -188,7 +188,10 @@ class Trainer:
                         labels = torch.tensor(labels).to(device)
 
                         preds = model(inputs, positions, mode, triple_degrees)
-                        if hyperparams['use_structure']:
+                        if hyperparams.get('ensemble', False):
+                            # Degree-aware ensemble: blend LM + TransE scores
+                            preds = model.ensemble_score(preds, positions, triple_degrees)
+                        elif hyperparams['use_structure']:
                             triple_score = model.forward_transe(positions, mode).squeeze()
 
                             preds_transe = (margin - triple_score).sigmoid().unsqueeze(0)
@@ -459,7 +462,10 @@ class Trainer:
 
                         preds = model(inputs, positions, mode, triple_degrees)
 
-                        if hyperparams['use_structure']:
+                        if hyperparams.get('ensemble', False):
+                            # Degree-aware ensemble: blend LM + TransE scores
+                            preds = model.ensemble_score(preds, positions, triple_degrees)
+                        elif hyperparams['use_structure']:
                             triple_score = model.forward_transe(positions, mode).squeeze()
 
                             preds_transe = (margin - triple_score).sigmoid().unsqueeze(0)

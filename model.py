@@ -176,6 +176,72 @@ class LMKE(nn.Module):
 
 		return scores
 
+	def score_triples_transe_tc(self, positions):
+		"""Compute per-triple TransE scores for triple classification.
+		Returns a 1D tensor of shape (batch_size,) with TransE distance scores."""
+		batch_size = len(positions)
+		device = self.lm_model_given.device
+
+		h_idx = torch.LongTensor([positions[i]['head'][0] for i in range(batch_size)]).to(device)
+		r_idx = torch.LongTensor([positions[i]['rel'][0]  for i in range(batch_size)]).to(device)
+		t_idx = torch.LongTensor([positions[i]['tail'][0] for i in range(batch_size)]).to(device)
+
+		h_embs = self.ent_embeddings_transe(h_idx)
+		r_embs = self.rel_embeddings_transe(r_idx)
+		t_embs = self.ent_embeddings_transe(t_idx)
+
+		scores = (h_embs + r_embs - t_embs).square().sum(dim=-1).sqrt()
+		return scores
+
+	def ensemble_score(self, lm_preds, positions, triple_degrees, margin=9.0):
+		"""Degree-aware ensemble of LM and TransE scores for triple classification.
+
+		Uses the ensemble_weights layers to learn per-triple blending weights
+		based on entity degree features. High-degree entities benefit more from
+		structural (TransE) scoring; low-degree entities rely more on the LM.
+
+		Args:
+			lm_preds: LM classifier output, shape (batch_size, 2)
+			positions: list of position dicts from tokenizer
+			triple_degrees: list of [h_deg, r_deg, t_deg] per triple
+			margin: margin for TransE sigmoid scoring
+
+		Returns:
+			ensembled_preds: blended predictions, shape (batch_size, 2)
+		"""
+		device = lm_preds.device
+		batch_size = lm_preds.shape[0]
+
+		# Compute TransE distance score for each triple
+		transe_dist = self.score_triples_transe_tc(positions)  # (batch_size,)
+
+		# Convert TransE distance to a probability-like score
+		# Low distance = high probability of valid triple
+		transe_prob = torch.sigmoid(margin - transe_dist)  # (batch_size,)
+
+		# Build TransE preds in same shape as LM preds: (batch_size, 2)
+		# Column 0 = P(invalid), Column 1 = P(valid)
+		transe_preds = torch.stack([1 - transe_prob, transe_prob], dim=-1)  # (batch_size, 2)
+
+		# Build degree features: (batch_size, 2) using head and tail degrees
+		# Normalize by log to prevent extreme values
+		deg_features = torch.tensor(
+			[[math.log(max(d[0], 1)), math.log(max(d[2], 1))] for d in triple_degrees],
+			dtype=torch.float
+		).to(device)  # (batch_size, num_deg_features=2)
+
+		# Compute learned ensemble weights conditioned on degree features
+		# Output shape: (batch_size, 2) → [weight_for_LM, weight_for_TransE]
+		weights = torch.softmax(self.ensemble_weights_pred_h(deg_features), dim=-1)  # (batch_size, 2)
+
+		# Blend: weighted sum of LM and TransE predictions
+		ensembled_preds = (
+			weights[:, 0].unsqueeze(1) * lm_preds +
+			weights[:, 1].unsqueeze(1) * transe_preds
+		)  # (batch_size, 2)
+
+		return ensembled_preds
+
 	def score_triples_rotate(self, h_embs, r_embs, t_embs, mode):
 		h_embs_re = h_embs[:, :, :, 0]
 		h_embs_im = h_embs[:, :, :, 1]
