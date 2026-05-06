@@ -1,0 +1,38 @@
+Load Path: ./params/lp/biobert-tiny-u=False-b=128-d=True-epc_49_metric_fil_mrr.pt split: test
+MR 2357.83516 MRR 0.01055 hits 1 0.00183 3 0.00504 10 0.02152, Setting: raw Target: head 
+MR 2292.74542 MRR 0.01409 hits 1 0.00229 3 0.00595 10 0.03755, Setting: filter Target: head 
+MR 517.41575 MRR 0.09967 hits 1 0.04212 3 0.09707 10 0.17857, Setting: raw Target: tail 
+MR 515.36996 MRR 0.11181 hits 1 0.05586 3 0.10806 10 0.18498, Setting: filter Target: tail 
+Distinguish Given / Target: Group: given_0 mr 90.187 mrr 0.077 hits1 0.0 hits3 0.041 hits10 0.25
+Distinguish Given / Target: Group: given_1 mr 841.486 mrr 0.056 hits1 0.0 hits3 0.055 hits10 0.208
+Distinguish Given / Target: Group: given_2 mr 900.858 mrr 0.059 hits1 0.02 hits3 0.04 hits10 0.06
+Distinguish Given / Target: Group: given_3 mr 1078.63 mrr 0.071 hits1 0.011 hits3 0.095 hits10 0.154
+Distinguish Given / Target: Group: given_4 mr 888.875 mrr 0.055 hits1 0.022 hits3 0.04 hits10 0.088
+Distinguish Given / Target: Group: given_5 mr 1458.827 mrr 0.057 hits1 0.024 hits3 0.046 hits10 0.084
+Distinguish Given / Target: Group: given_6 mr 1434.663 mrr 0.055 hits1 0.025 hits3 0.049 hits10 0.095
+Distinguish Given / Target: Group: given_7 mr 1644.713 mrr 0.075 hits1 0.045 hits3 0.075 hits10 0.129
+Distinguish Given / Target: Group: given_8 mr 1737.987 mrr 0.064 hits1 0.025 hits3 0.069 hits10 0.146
+Distinguish Given / Target: Group: given_9 mr 1471.685 mrr 0.092 hits1 0.051 hits3 0.103 hits10 0.169
+Distinguish Given / Target: Group: given_10 mr 1238.487 mrr 0.134 hits1 0.104 hits3 0.139 hits10 0.186
+Distinguish Given / Target: Group: given_11 mr 2078.551 mrr 0.077 hits1 0.0 hits3 0.126 hits10 0.386
+Distinguish Given / Target: Group: given_12 mr 0.0 mrr 0.0 hits1 0.0 hits3 0.0 hits10 0.0
+Distinguish Given / Target: Group: given_13 mr 833.0 mrr 0.012 hits1 0.0 hits3 0.002 hits10 0.04
+Distinguish Given / Target: Group: given_14 mr 672.886 mrr 0.011 hits1 0.0 hits3 0.004 hits10 0.044
+Distinguish Given / Target: Group: given_15 mr 0.0 mrr 0.0 hits1 0.0 hits3 0.0 hits10 0.0
+Distinguish Given / Target: Group: target_0 mr 3442.375 mrr 0.011 hits1 0.0 hits3 0.02 hits10 0.02
+Distinguish Given / Target: Group: target_1 mr 5203.611 mrr 0.0 hits1 0.0 hits3 0.0 hits10 0.0
+Distinguish Given / Target: Group: target_2 mr 5298.922 mrr 0.0 hits1 0.0 hits3 0.0 hits10 0.0
+Distinguish Given / Target: Group: target_3 mr 5158.218 mrr 0.021 hits1 0.0 hits3 0.04 hits10 0.04
+Distinguish Given / Target: Group: target_4 mr 3759.513 mrr 0.003 hits1 0.0 hits3 0.0 hits10 0.0
+Distinguish Given / Target: Group: target_5 mr 2326.876 mrr 0.012 hits1 0.0 hits3 0.0 hits10 0.024
+Distinguish Given / Target: Group: target_6 mr 1119.38 mrr 0.031 hits1 0.014 hits3 0.023 hits10 0.064
+Distinguish Given / Target: Group: target_7 mr 930.312 mrr 0.022 hits1 0.003 hits3 0.006 hits10 0.059
+Distinguish Given / Target: Group: target_8 mr 779.283 mrr 0.032 hits1 0.007 hits3 0.012 hits10 0.074
+Distinguish Given / Target: Group: target_9 mr 495.231 mrr 0.031 hits1 0.0 hits3 0.0 hits10 0.086
+Distinguish Given / Target: Group: target_10 mr 745.662 mrr 0.066 hits1 0.013 hits3 0.054 hits10 0.121
+Distinguish Given / Target: Group: target_11 mr 1368.949 mrr 0.059 hits1 0.002 hits3 0.02 hits10 0.222
+Distinguish Given / Target: Group: target_12 mr 0.0 mrr 0.0 hits1 0.0 hits3 0.0 hits10 0.0
+Distinguish Given / Target: Group: target_13 mr 96.703 mrr 0.324 hits1 0.273 hits3 0.38 hits10 0.383
+Distinguish Given / Target: Group: target_14 mr 114.478 mrr 0.094 hits1 0.025 hits3 0.125 hits10 0.221
+Distinguish Given / Target: Group: target_15 mr 0.0 mrr 0.0 hits1 0.0 hits3 0.0 hits10 0.0
+Overall: MR 1404.05769 MRR 0.06295 hits 1 0.02908 3 0.05701 10 0.11126, Setting: Filter 

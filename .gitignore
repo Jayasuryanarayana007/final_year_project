@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Raw GNBR data (too large for GitHub, 1-1.3GB each)
+formatted/
+
+# Large intermediate data files (>100MB)
+data/all_triples.tsv
+data/scored_*.tsv
+data/chemical-disease.tsv
+data/chemical-gene.tsv
+data/gene-disease.tsv
+data/gene-gene.tsv
+
+# Model checkpoints (>100MB each, too large for GitHub)
+# Download from Kaggle output or retrain to regenerate
+params/tc/*.pt
+params/lp/*.pt
+
+# Cached pre-trained models (downloaded from HuggingFace)
+cached_model/
+
+# Sampler cache (regenerated at runtime)
+sampler/
+
+# Sample LMKE data (not used in our project)
+sample_lmke_data/
+
+# Misc
+*.zip
+.DS_Store

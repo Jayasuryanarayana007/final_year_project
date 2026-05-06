@@ -1,0 +1,1677 @@
+D058165	22q11 Deletion Syndrome
+C535313	3C syndrome
+C535312	3-Hydroxyisobutyric aciduria
+C535308	3-methylcrotonyl CoA carboxylase 1 deficiency
+D058489	46, XX Disorders of Sex Development
+D058531	46, XX Testicular Disorders of Sex Development
+C535317	47, XYY syndrome
+C535319	49,XXXXX syndrome
+C535322	5-oxoprolinase deficiency
+C535325	6-pyruvoyl-tetrahydropterin synthase deficiency
+C535332	Aase Smith syndrome
+C535334	ABCD syndrome
+D000012	Abetalipoproteinemia
+C535556	Abidi X-linked mental retardation syndrome
+C535557	Ablepharon macrostomia syndrome
+C535559	Abruzzo Erickson syndrome
+C535564	Absence of tibia with polydactyly
+C535568	Absent patella
+C535570	Acalvaria
+D015823	Acanthamoeba Keratitis
+C536003	Accessory pancreas
+C536008	Achalasia Addisonianism Alacrimia syndrome
+C536011	Achalasia, familial esophageal
+C536010	Achalasia microcephaly
+C536014	Acheiropodia
+C536015	Achondrogenesis type 1A
+C536016	Achondrogenesis type 1B
+C536017	Achondrogenesis type 2
+D000130	Achondroplasia
+C536020	Achondroplasia and Swiss type agammaglobulinemia
+C538165	Achromatopsia incomplete, X-linked
+C538167	Acidemia, isovaleric
+C538170	Ackerman syndrome
+C538173	Acquired angioedema
+D000168	Acrocephalosyndactylia
+C538179	Acrodysostosis
+C538180	Acrodysplasia scoliosis
+C538182	Acrofacial dysostosis Catania form
+C538184	Acrofacial dysostosis, Nager type
+C538185	Acrofacial dysostosis, Palagonia type
+C538183	Acrofacial dysostosis Rodriguez type
+C538187	Acrogeria, gottron type
+C535653	Acrokeratoelastoidosis of Costa
+C535655	Acromegaloid facial appearance syndrome
+D000172	Acromegaly
+C535657	Acromelic frontonasal dysplasia
+C535658	Acromesomelic dysplasia
+C535661	Acromesomelic dysplasia, Maroteaux type
+C535662	Acromicric dysplasia
+C535663	Acroosteolysis dominant type
+C535665	Acrorenal mandibular syndrome
+C537957	Acute fatty liver of pregnancy
+D055371	Acute Lung Injury
+D050398	Adamantinoma
+C538225	Adams Oliver syndrome
+D000224	Addison Disease
+D018248	Adenoma, Liver Cell
+D011125	Adenomatous Polyposis Coli
+C538234	Adenosine monophosphate deaminase deficiency
+C538235	Adenylosuccinate lyase deficiency
+D000274	Adiposis Dolorosa
+D000312	Adrenal Hyperplasia, Congenital
+D018268	Adrenocortical Carcinoma
+D000308	Adrenocortical Hyperfunction
+D047808	Adrenogenital Syndrome
+D000326	Adrenoleukodystrophy
+C538051	Adrenomyodystrophy
+D000361	Agammaglobulinemia
+D019588	Aging, Premature
+C535607	Aicardi-Goutieres syndrome
+D058540	Aicardi Syndrome
+D016738	Alagille Syndrome
+C537042	Albinism deafness syndrome
+C537043	Albinism ocular late onset sensorineural deafness
+D016115	Albinism, Oculocutaneous
+D038261	Alexander Disease
+D000474	Alkaptonuria
+C537047	Allan-Herndon-Dudley syndrome
+C537051	Alopecia contractures dwarfism mental retardation
+C537057	Alopecia, epilepsy, pyorrhea, mental subnormality
+C537053	Alopecia hypogonadism extrapyramidal disorder
+C537055	Alopecia universalis
+D019896	alpha 1-Antitrypsin Deficiency
+C536582	Alpha-ketoglutarate dehydrogenase deficiency
+D008363	alpha-Mannosidosis
+D017085	alpha-Thalassemia
+C536586	Alport syndrome, dominant type
+C536587	Alport syndrome, recessive type
+D056769	Alstrom Syndrome
+C536589	Alternating hemiplegia of childhood
+C536591	Alveolar echinococcosis
+D000542	Alveolitis, Extrinsic Allergic
+C536604	Amaurosis hypertrichosis
+C536605	Ambras syndrome
+D000567	Amelogenesis Imperfecta
+C536606	Amelogenesis Imperfecta hypomaturation type
+C538241	Amelogenesis imperfecta nephrocalcinosis
+C538245	Ameloonychohypohidrotic syndrome
+C538247	Amish lethal microcephaly
+C531613	Amoebiasis due to Entamoeba histolytica
+D000686	Amyloidosis
+C537944	Amyloidosis, Cerebroarterial, App-Related
+C538250	Amyopathic dermatomyositis
+D000690	Amyotrophic Lateral Sclerosis
+C538253	Amyotrophy, monomelic
+C538256	Anauxetic dysplasia
+D000724	Ancylostomiasis
+D013734	Androgen-Insensitivity Syndrome
+D029503	Anemia, Diamond-Blackfan
+D000742	Anemia, Dyserythropoietic, Congenital
+D000744	Anemia, Hemolytic, Autoimmune
+C536356	Anemia, hereditary spherocytic hemolytic
+D000753	Anemia, Refractory
+D000754	Anemia, Refractory, with Excess of Blasts
+D000755	Anemia, Sickle Cell
+D000756	Anemia, Sideroblastic
+D017204	Angelman Syndrome
+C536362	Angiofollicular ganglionic hyperplasia
+D000796	Angiolymphoid Hyperplasia with Eosinophilia
+C536364	Angioma hereditary neurocutaneous
+C536369	Angiostrongyliasis
+D017129	Anisakiasis
+C536373	Ankyloblepharon filiforme adnatum
+C536376	Annular pancreas
+D000848	Anodontia
+C536378	Anonychia onychodystrophy
+C537767	Anophthalmia plus syndrome
+C537770	Anorchia
+D056648	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+C537778	Antisynthetase syndrome
+C537782	Aorta-pulmonary artery fistula
+C537785	Aortic arch anomaly with peculiar facies and mental retardation
+D001017	Aortic Coarctation
+D021921	Aortic Stenosis, Supravalvular
+C537786	Aphakia, congenital primary
+D018888	Aphasia, Primary Progressive
+C537788	Aplasia cutis congenita intestinal lymphangiectasia
+C536840	Aplasia cutis congenita of limbs recessive
+C538494	Aplastic anemia, idiopathic
+C537422	Apparent mineralocorticoid excess
+C537423	Apraxia, oculomotor, Cogan type
+D016080	Arachnoid Cysts
+D001100	Arachnoiditis
+C537427	AREDYLD Syndrome
+D056807	Argininosuccinic Aciduria
+D001129	Argyria
+C537436	Aromatase deficiency
+C537438	Arrhinia
+D019571	Arrhythmogenic Right Ventricular Dysplasia
+C537440	Arterial calcification of infancy
+D001164	Arteriovenous Fistula
+D001165	Arteriovenous Malformations
+D001171	Arthritis, Juvenile
+D016918	Arthritis, Reactive
+D001176	Arthrogryposis
+C535386	Arthrogryposis-like hand anomaly and sensorineural deafness
+C535380	Arthrogryposis multiplex congenita, distal, X-linked
+C536614	Arthrogryposis multiplex congenita neurogenic type
+C538401	Arthrogryposis multiplex congenita whistling face
+C535382	Arthrogryposis renal dysfunction cholestasis syndrome
+C535387	Arthropathy, progressive pseudorheumatoid, of childhood
+C535388	Arts syndrome
+C538402	Aspartylglucosamidase (AGA) deficiency
+D054880	Aspartylglucosaminuria
+D001228	Aspergillosis
+D001229	Aspergillosis, Allergic Bronchopulmonary
+D001254	Astrocytoma
+D001260	Ataxia Telangiectasia
+C535393	Ataxia with vitamin E deficiency
+C535396	Atelosteogenesis, type 1
+C535395	Atelosteogenesis type 2
+C535397	Athabaskan brainstem dysgenesis
+C538260	Atresia of small intestine
+C538262	Atrial myxoma, familial
+C548009	Atrial Septal Defect Sinus Venosus
+C538265	Attenuated familial adenomatous polyposis
+C538270	Auriculo-condylar syndrome
+C538271	Auriculoosteodysplasia
+D056735	Autoimmune Lymphoproliferative Syndrome
+C538275	Autoimmune polyendocrinopathy syndrome, type 1
+C535679	Axenfeld-Rieger syndrome
+C537790	Axial mesodermal dysplasia spectrum
+D001404	Babesiosis
+D001447	Balantidiasis
+C537901	Bamforth syndrome
+C537902	Bangstad syndrome
+C537908	Barber Say syndrome
+D020788	Bardet-Biedl Syndrome
+D056889	Barth Syndrome
+D001474	Bartonella Infections
+D001477	Bartter Syndrome
+C537658	Basal ganglia disease, biotin-responsive
+C537662	Battaglia Neri syndrome
+C537663	Bazex-Dupre-Christol syndrome
+D001506	Beckwith-Wiedemann Syndrome
+C537668	Beemer Ertbruggen syndrome
+D001528	Behcet Syndrome
+D001606	Bernard-Soulier Syndrome
+D001607	Berylliosis
+D044905	beta-Mannosidosis
+D017086	beta-Thalassemia
+C535436	Bethlem myopathy
+C535440	Bietti Crystalline Dystrophy
+C535441	Bifid nose
+C535442	Bile acid synthesis defect, congenital, 1
+C535443	Bile acid synthesis defect, congenital, 2
+C566340	Bile Acid Synthesis Defect, Congenital, 3
+C535444	Bile acid synthesis defect, congenital, 4
+D001650	Bile Duct Neoplasms
+D001656	Biliary Atresia
+D028921	Biotinidase Deficiency
+D001716	Bird Fancier's Lung
+C535448	Bird headed dwarfism Montreal type
+D058249	Birt-Hogg-Dube Syndrome
+C537633	Bjornstad syndrome
+D001746	Bladder Exstrophy
+D001763	Blepharoptosis
+C536236	Blepharoptosis myopia ectopia lentis
+D001816	Bloom Syndrome
+C536237	Blount disease
+C536238	Blue cone monochromatism
+C536239	Blue diaper syndrome
+C536240	Blue rubber bleb nevus syndrome
+C536573	Boomerang dysplasia
+C536575	Borjeson-Forssman-Lehmann syndrome
+D001906	Botulism
+D001907	Boutonneuse Fever
+C537081	Bowen-Conradi syndrome
+C537086	Brachydactylous dwarfism Mseleni type
+C537088	Brachydactyly type A1
+C537089	Brachydactyly type A2
+C537092	Brachydactyly type A6
+C537093	Brachydactyly type C
+C536242	Brachymorphism-onychodysplasia-dysphalangism syndrome
+C537098	Brachyolmia
+D019280	Branchio-Oto-Renal Syndrome
+C536607	Brody myopathy
+D001994	Bronchogenic Cyst
+D001997	Bronchopulmonary Dysplasia
+C537111	Brown-Vialetto-Van Laere syndrome
+D002006	Brucellosis
+D053840	Brugada Syndrome
+C537409	Bruton type agammaglobulinemia
+D006502	Budd-Chiari Syndrome
+D010244	Bulbar Palsy, Progressive
+D002051	Burkitt Lymphoma
+C537411	Burn-Mckeown syndrome
+C537415	Buschke-Ollendorff syndrome
+C537417	Butyrylcholinesterase deficiency
+D046589	CADASIL
+C537966	Campomelia Cumming type
+D055036	Campomelic Dysplasia
+C537967	Camptobrachydactyly
+C537968	Camptocormia
+C537974	Camptodactyly, fibrous tissue hyperplasia, and skeletal dysplasia
+C537970	Camptodactyly syndrome Guadalajara type 1
+C537971	Camptodactyly syndrome Guadalajara type 2
+C537972	Camptodactyly taurinuria
+D003966	Camurati-Engelmann Syndrome
+D017825	Canavan Disease
+D002178	Candidiasis, Chronic Mucocutaneous
+C537980	CANOMAD syndrome
+C535572	Cantu syndrome
+D019559	Capillary Leak Syndrome
+C535351	CAPOS syndrome
+D018236	Carcinoma, Embryonal
+D006528	Carcinoma, Hepatocellular
+D002292	Carcinoma, Renal Cell
+C535579	Cardiofaciocutaneous syndrome
+D009202	Cardiomyopathies
+D002311	Cardiomyopathy, Dilated
+D002312	Cardiomyopathy, Hypertrophic
+D024741	Cardiomyopathy, Hypertrophic, Familial
+C535584	Cardiomyopathy, infantile histiocytoid
+D002313	Cardiomyopathy, Restrictive
+D056733	Carney Complex
+C535589	Carnitine palmitoyl transferase 2 deficiency
+D016767	Caroli Disease
+C531647	Caroli disease isolated
+C535916	Cartilage-hair hypoplasia
+D005871	Castleman Disease
+C535336	Cataract, alopecia, sclerodactyly
+C538280	Cataract and cardiomyopathy
+C538282	Cataract anterior polar dominant
+C538283	Cataract ataxia deafness
+C538287	Cataract microcornea syndrome
+C535342	Cataract, zonular
+C535347	Catel Manzke syndrome
+D002372	Cat-Scratch Disease
+C535349	Cayler cardiofacial syndrome
+C535350	Cerebellar ataxia ectodermal dysplasia
+C535353	Cerebellar hypoplasia with endosteal sclerosis
+D028243	Cerebral Amyloid Angiopathy, Familial
+C537948	Ceroid lipofuscinosis, neuronal 1, infantile
+C537955	Cerulean cataract
+C536560	Chanarin-Dorfman Syndrome
+D002607	Charcot-Marie-Tooth Disease
+C538078	Charcot-Marie-Tooth disease and deafness
+C537984	Charcot-Marie-Tooth disease, Type 1C
+C537985	Charcot-Marie-Tooth disease, Type 1D
+C537986	Charcot-Marie-Tooth disease, Type 1E
+C537990	Charcot-Marie-Tooth disease, Type 2B1
+C537991	Charcot-Marie-Tooth disease, Type 2B2
+C535415	Charcot-Marie-Tooth disease, Type 2H
+C535419	Charcot-Marie-Tooth disease, Type 4A
+C535420	Charcot-Marie-Tooth disease, Type 4B1
+C535421	Charcot-Marie-Tooth disease, Type 4B2
+C535423	Charcot-Marie-Tooth disease, Type 4C
+C535301	Charcot-Marie-Tooth disease, Type 4E
+C535919	Charcot-Marie-Tooth disease, X-linked, 1
+D058747	CHARGE Syndrome
+D002609	Chediak-Higashi Syndrome
+C535921	Cheilitis glandularis
+D002636	Cherubism
+C535924	Chilblain lupus 1
+D002659	Child Development Disorders, Pervasive
+D002754	Choanal Atresia
+D018281	Cholangiocarcinoma
+D002771	Cholera
+C535933	Cholestasis, progressive familial intrahepatic 1
+C535934	Cholestasis, progressive familial intrahepatic 2
+C535935	Cholestasis, progressive familial intrahepatic 3
+C537914	Chondrodysplasia, blomstrand type
+D002806	Chondrodysplasia Punctata
+D018902	Chondrodysplasia Punctata, Rhizomelic
+D002813	Chondrosarcoma
+D002817	Chordoma
+D002819	Chorea
+C535356	Chorioretinal atrophy, progressive bifocal
+C535358	Choroidal sclerosis
+D015794	Choroideremia
+D002862	Chromoblastomycosis
+C538086	Chromosome 10 ring
+C538294	Chromosome 11, partial trisomy 11q
+C538295	Chromosome 11p, partial deletion
+C538303	Chromosome 13 ring
+C538034	Chromosome 14q, terminal duplication
+C535489	Chromosome 14, trisomy mosaic
+C538035	Chromosome 15 ring
+C538037	Chromosome 15, trisomy mosaicism
+C538046	Chromosome 17 ring
+C536579	Chromosome 17, trisomy 17q22
+C538304	Chromosome 18 ring
+C538307	Chromosome 18, trisomy 18p
+C535361	Chromosome 1 ring
+C535369	Chromosome 20 ring
+C537109	Chromosome 21 ring
+C536795	Chromosome 22 ring
+C538316	Chromosome 2, monosomy 2q24
+C538317	Chromosome 2q37 deletion syndrome
+C536808	Chromosome 3, monosomy 3q13
+C537763	Chromosome 6 ring syndrome
+C537813	Chromosome 7 ring syndrome
+C537822	Chromosome 7, trisomy mosaic
+C537940	Chromosome 8, mosaic trisomy
+C537824	Chromosome 8 ring
+C538020	Chromosome 8, trisomy 8q
+C538022	Chromosome 9 Ring
+C538027	Chromosome 9, tetrasomy 9p
+C535454	Chromosome 9, trisomy mosaic
+D002869	Chromosome Aberrations
+D015267	Churg-Strauss Syndrome
+C535460	Chylomicron retention disease
+D002915	Chylous Ascites
+D020159	Citrullinemia
+D054221	Classical Lissencephalies and Subcortical Band Heterotopias
+D002972	Cleft Palate
+D002973	Cleidocranial Dysplasia
+D003047	Coccidioidomycosis
+D003057	Cockayne Syndrome
+C536434	CODAS syndrome
+D038921	Coffin-Lowry Syndrome
+C536436	Coffin-Siris syndrome
+D055952	Cogan Syndrome
+C536438	Cohen syndrome
+C535963	Cole Carpenter syndrome
+C535969	Coloboma of macula type B brachydactyly
+D003121	Colorado Tick Fever
+D003123	Colorectal Neoplasms, Hereditary Nonpolyposis
+D017074	Common Variable Immunodeficiency
+D020918	Complex Regional Pain Syndromes
+D058617	Composite Lymphoma
+C535978	Congenital adrenal hyperplasia due to 11-Beta-hydroxylase deficiency
+C535982	Congenital amegakaryocytic thrombocytopenia
+C538259	Congenital atransferrinemia
+C535984	Congenital bilateral aplasia of vas deferens
+C536209	Congenital central hypoventilation syndrome
+C536210	Congenital chloride diarrhea
+C536211	Congenital contractural arachnodactyly
+C535758	Congenital heart block
+D044903	Congenital Hyperinsulinism
+C538389	Congenital hypertrichosis lanuginosa
+D003409	Congenital Hypothyroidism
+C535735	Congenital lobar emphysema
+C531735	Congenital macroglossia
+C557675	Congenital tracheomalacia
+C535465	Contractures ectodermal dysplasia cleft lip palate
+C535466	Convulsions benign familial neonatal dominant form
+C535468	Copper deficiency, familial benign
+D046349	Coproporphyria, Hereditary
+C535472	Corneal cerebellar syndrome
+D003317	Corneal Dystrophies, Hereditary
+C535473	Corneal dystrophy and perceptive deafness
+C535474	Corneal dystrophy Avellino type
+C535475	Corneal Dystrophy, Crystalline, of Schnyder
+C535480	Corneal dystrophy, gelatinous drop-like
+D053559	Corneal Dystrophy, Juvenile Epithelial of Meesmann
+C535476	Corneal dystrophy of Bowman layer, type 1
+C535942	Corneal dystrophy, Thiel-Behnke type
+C536444	Corneodermatoosseous syndrome
+C536446	Corpus callosum agenesis neuronopathy
+C535311	Costeff optic atrophy syndrome
+D056685	Costello Syndrome
+C536448	Costocoracoid ligament congenitally short
+C536452	Crane-Heise syndrome
+C536453	Craniofacial deafness hand syndrome
+C536455	Craniofacial dyssynostosis
+C536456	Craniofrontonasal dysplasia
+D003397	Craniopharyngioma
+D003398	Craniosynostoses
+C536789	Craniosynostosis, anal anomalies, and porokeratosis
+C536788	Craniosynostosis radial aplasia syndrome
+C535597	Craniotelencephalic dysplasia
+D017675	CREST Syndrome
+D007562	Creutzfeldt-Jakob Syndrome
+D003410	Cri-du-Chat Syndrome
+D003414	Crigler-Najjar Syndrome
+C536213	Crigler Najjar syndrome, type 2
+C536214	Crisponi syndrome
+D056587	Cryopyrin-Associated Periodic Syndromes
+D003453	Cryptococcosis
+D018549	Cryptogenic Organizing Pneumonia
+C536221	Currarino triad
+C536223	Cushing's symphalangism
+D003480	Cushing Syndrome
+C536224	Cutaneous photosensitivity and colitis, lethal
+D003483	Cutis Laxa
+C536226	Cutis marmorata telangiectatica congenita
+C536227	Cyclic neutropenia
+C536229	Cyprus facial neuromusculoskeletal syndrome
+D003551	Cysticercosis
+D003550	Cystic Fibrosis
+D003554	Cystinosis
+D003555	Cystinuria
+D018856	Cystitis, Interstitial
+C535766	Czech dysplasia, metatarsal type
+C535769	Dahlberg Borer Newcomer syndrome
+C535771	Dandy Walker malformation postaxial polydactyly
+D007644	Darier Disease
+C535993	Deafness conductive ptosis skeletal anomalies
+C535994	Deafness enamel hypoplasia nail defects
+C538049	Deafness oligodontia syndrome
+C535990	De Barsy syndrome
+D003635	De Lange Syndrome
+C538209	Dementia, familial Danish
+D054740	Dendritic Cell Sarcoma, Follicular
+D054739	Dendritic Cell Sarcoma, Interdigitating
+D003715	Dengue
+D057973	Dent Disease
+C538212	Dent disease 1
+D003805	Dentin Dysplasia
+C538213	Dentin dysplasia sclerotic bones
+C538215	Dentin dysplasia, type 1
+D003811	Dentinogenesis Imperfecta
+D030321	Denys-Drash Syndrome
+D003874	Dermatitis Herpetiformis
+C538220	Dermatoleukodystrophy
+D003882	Dermatomyositis
+C535373	Dermatoosteolysis Kirghizian type
+C535374	Dermatopathia pigmentosa reticularis
+C535992	De Sanctis-Cacchione syndrome
+C535943	Desbuquois syndrome
+D058405	Desmoplastic Small Round Cell Tumor
+D003914	Dextrocardia
+C535767	D-glycericacidemia
+D018500	Diabetes Insipidus, Nephrogenic
+D020790	Diabetes Insipidus, Neurogenic
+C536169	Diaphyseal medullary stenosis with malignant fibrous histiocytoma
+C536171	Dicarboxylicaminoaciduria
+C531609	Diffuse alopecia
+D002549	Diffuse Cerebral Sclerosis of Schilder
+C536174	Diffuse panbronchiolitis
+D054067	Dihydropyrimidine Dehydrogenase Deficiency
+D004165	Diphtheria
+D004184	Dirofilariasis
+D058490	Disorder of Sex Development, 46,XY
+D012734	Disorders of Sex Development
+C536816	Distal myopathy, Nonaka type
+C538087	Distal Trisomy 10q Syndrome
+C538618	Donath-Landsteiner hemolytic anemia
+C536390	Donnai-Barrow syndrome
+D056731	Donohue Syndrome
+C535600	dopamine beta hydroxylase deficiency
+D004310	Double Outlet Right Ventricle
+D004314	Down Syndrome
+D004320	Dracunculiasis
+D004370	Duane Retraction Syndrome
+C535718	Dubowitz syndrome
+C537643	Duplication 4p Syndrome
+C535725	Dwarfism tall vertebrae
+C535726	Dyggve-Melchior-Clausen syndrome
+D004402	Dysautonomia, Familial
+C535729	Dyschromatosis symmetrica hereditaria 1
+C535731	Dysequilibrium syndrome
+D019871	Dyskeratosis Congenita
+C537997	Dysplasia epiphysealis hemimelica
+C537999	Dyssegmental dysplasia, Rolland-Desbuquois type
+C538002	Dystonia 15, myoclonic
+C538007	Dystonia, Dopa-responsive
+C538011	Eales disease
+D004443	Echinococcosis
+D004476	Ectodermal Dysplasia
+D053358	Ectodermal Dysplasia 1, Anhidrotic
+C536180	Ectodermal dysplasia, hidrotic, Christianson-Fourie type
+D053360	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive
+C536183	Ectodermal Dysplasia-Skin Fragility Syndrome
+D004479	Ectopia Lentis
+D004535	Ehlers-Danlos Syndrome
+C536201	Ehlers-Danlos syndrome, progeroid form
+C536197	Ehlers-Danlos syndrome type 5
+D016873	Ehrlichiosis
+C536202	Elastosis perforans serpiginosa
+C536203	Elejalde Disease
+D004612	Elliptocytosis, Hereditary
+D004613	Ellis-Van Creveld Syndrome
+C535733	Emanuel syndrome
+D004660	Encephalitis
+D004670	Encephalitis, California
+D004672	Encephalitis, Japanese
+D004674	Encephalitis, St. Louis
+D004675	Encephalitis, Tick-Borne
+D004677	Encephalocele
+C535736	Encephalocraniocutaneous lipomatosis
+D004687	Enchondromatosis
+D009877	Endophthalmitis
+D058527	Enteropathy-Associated T-Cell Lymphoma
+D016603	Eosinophilia-Myalgia Syndrome
+C535952	Eosinophilic enteropathy
+D004819	Epidermodysplasia Verruciformis
+D016109	Epidermolysis Bullosa, Junctional
+C535493	Epidermolysis bullosa, lethal acantholytic
+C535962	Epidermolysis bullosa simplex, Ogna type
+C535959	Epidermolysis bullosa simplex with mottled pigmentation
+D020936	Epilepsy, Benign Neonatal
+D020195	Epilepsy, Reflex
+C535499	Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp
+C535497	Epilepsy telangiectasia
+C535500	Epileptic encephalopathy, Lennox-Gastaut type
+C535501	Epiphyseal dysplasia, multiple, 1
+C535504	Epiphyseal dysplasia, multiple, 4
+C535505	Epiphyseal dysplasia, multiple, 5
+D004842	Epispadias
+D031249	Erdheim-Chester Disease
+C535508	Ermine phenotype
+C535509	Erythema elevatum diutinum
+C535738	Erythrokeratodermia with ataxia
+D004933	Esophageal Atresia
+C535737	Ethylmalonic encephalopathy
+C536382	Exudative vitreoretinopathy 1
+D000795	Fabry Disease
+C536384	FACES syndrome
+C536388	Faciocardiorenal syndrome
+C536004	Familial apoceruloplasmin deficiency
+C537147	Familial benign hypercalcemia, type 3
+C536611	Familial cylindromatosis
+C536231	familial dilated cardiomyopathy
+C535720	Familial duodenal atresia
+C536184	Familial ectopia lentis
+C536841	Familial encephalopathy with neuroserpin inclusion bodies
+D010505	Familial Mediterranean Fever
+C536911	Familial medullary thyroid carcinoma
+C536961	Familial Testotoxicosis
+D005199	Fanconi Anemia
+D055577	Farber Lipogranulomatosis
+D005203	Farmer's Lung
+D005258	Felty Syndrome
+C537916	Femoral facial syndrome
+C537918	Femur fibula ulna syndrome
+C537922	Fetal hydantoin syndrome
+C537798	Fetal trimethadione syndrome
+D005354	Fibrosarcoma
+D005358	Fibrous Dysplasia, Monostotic
+D005357	Fibrous Dysplasia of Bone
+D005359	Fibrous Dysplasia, Polyostotic
+C537930	Fibular aplasia ectrodactyly
+D005368	Filariasis
+C538152	Filippi syndrome
+C537933	Fine-Lubinsky syndrome
+C537934	Finnish lethal neonatal metabolic syndrome
+C537062	Floating-harbor syndrome
+C537063	Florid cemento-osseous dysplasia
+C537065	FLOTCH syndrome
+C537066	Flynn Aird syndrome
+D005489	Focal Dermal Hypoplasia
+C537069	Foix Chavany Marie syndrome
+C537070	Follicle-stimulating hormone deficiency, isolated
+C537270	Fountain syndrome
+D005600	Fragile X Syndrome
+D058497	Fraser Syndrome
+D052159	Frasier Syndrome
+C535483	Freeman-Sheldon syndrome
+C538523	Free sialic acid storage disease
+D005621	Friedreich Ataxia
+C538064	Frontometaphyseal dysplasia
+C538065	Frontonasal dysplasia
+D057180	Frontotemporal Dementia
+D005633	Fructose Intolerance
+C538068	Fructosuria
+C538070	Fryns syndrome
+D005645	Fucosidosis
+C538189	Fuhrmann syndrome
+C538191	Fumaric aciduria
+C538192	Furlong syndrome
+C538193	Furukawa Takagi Nakao syndrome
+D005693	Galactosemias
+C537548	Galloway Mowat syndrome
+C535407	Gamma aminobutyric acid transaminase deficiency
+C535408	Gamma-cystathionase deficiency
+D016537	Gangliosidosis, GM1
+D005736	Gardner Syndrome
+D015408	Gastrinoma
+C535651	Gastrocutaneous syndrome
+D046152	Gastrointestinal Stromal Tumors
+D020139	Gastroschisis
+D005776	Gaucher Disease
+C537678	Gemignani syndrome
+C537682	Geniospasm
+C537683	Genito palato cardiac syndrome
+D018237	Germinoma
+C537799	Gerodermia osteodysplastica
+D016098	Gerstmann-Straussler-Scheinker Disease
+D005862	Gerstmann Syndrome
+D031901	Gestational Trophoblastic Disease
+D056768	Giant Axonal Neuropathy
+D013700	Giant Cell Arteritis
+D005877	Gigantism
+D053579	Gitelman Syndrome
+D015355	Glaucoma, Neovascular
+D005909	Glioblastoma
+D005910	Glioma
+D015432	Glomerulonephritis, Membranoproliferative
+C536825	Glomerulonephritis sparse hair telangiectases
+C536827	Glomus vagale tumors
+D005935	Glucagonoma
+C536833	Glutaric Acidemia I
+C536835	Glutathione synthetase deficiency
+D006008	Glycogen Storage Disease
+D006009	Glycogen Storage Disease Type II
+D006012	Glycogen Storage Disease Type V
+C537279	Goldberg-Shprintzen megacolon syndrome
+C537280	Goldblatt Viljoen syndrome
+D006053	Goldenhar Syndrome
+D023961	Gonadal Dysgenesis, 46,XX
+C537287	Goodman camptodactyly
+C537288	Gordon syndrome
+D006086	Graft vs Host Disease
+C537293	Grant syndrome
+D014890	Granulomatosis with Polyangiitis
+D006105	Granulomatous Disease, Chronic
+D058890	Granulomatous Mastitis
+D006106	Granulosa Cell Tumor
+D055652	Gray Platelet Syndrome
+C537300	Greig cephalopolysyndactyly syndrome
+C537301	Griscelli syndrome type 1
+C537302	Griscelli syndrome type 2
+C537303	Griscelli syndrome type 3
+C537621	Grubben de Cock Borghgraef syndrome
+C537622	Guanidinoacetate methyltransferase deficiency
+D020275	Guillain-Barre Syndrome
+D031845	Hajdu-Cheney Syndrome
+D006223	Hamartoma Syndrome, Multiple
+C535630	Hantavirosis
+C535633	Harding ataxia
+C535634	Harlequin syndrome
+D006250	Hartnup Disease
+C535845	Hawkinsinuria
+C535850	Heart defects limb shortening
+C535849	Heart defect, tongue hamartoma and polysyndactyly
+C535852	Heart-hand syndrome, Slovenian type
+D006344	Heart Septal Defects, Atrial
+D006362	Heavy Chain Disease
+D017359	HELLP Syndrome
+D018323	Hemangioendothelioma, Epithelioid
+C535861	Hemangiomatosis, familial pulmonary capillary
+D006393	Hemangiopericytoma
+C535862	Hemifacial myohyperplasia
+C537247	Hemochromatosis, type 2
+C537248	Hemochromatosis, type 3
+C537249	Hemochromatosis, type 4
+D006445	Hemoglobin C Disease
+D006453	Hemoglobinopathies
+D006457	Hemoglobinuria, Paroxysmal
+D006467	Hemophilia A
+D002836	Hemophilia B
+D006480	Hemorrhagic Fever with Renal Syndrome
+D006504	Hepatic Veno-Occlusive Disease
+D018197	Hepatoblastoma
+D006527	Hepatolenticular Degeneration
+D056828	Hereditary Angioedema Type III
+C536482	Hereditary renal agenesis
+D009477	Hereditary Sensory and Autonomic Neuropathies
+C538112	Hernandez Aguirre-Negrete syndrome
+D006627	Hirschsprung Disease
+C538119	Hirschsprung disease ganglioneuroblastoma
+C538319	Hirschsprung disease type d brachydactyly
+C538320	Histidinemia
+C538321	Histidinuria renal tubular defect
+D054747	Histiocytic Sarcoma
+D051677	Histiocytoma, Malignant Fibrous
+D006646	Histiocytosis, Langerhans-Cell
+D015616	Histiocytosis, Non-Langerhans-Cell
+D006660	Histoplasmosis
+D006689	Hodgkin Disease
+D028922	Holocarboxylase Synthetase Deficiency
+D016142	Holoprosencephaly
+C535326	Holt-Oram syndrome
+C535327	Holzgreve Wagner Rehder syndrome
+C535328	Homocarnosinosis
+D006725	Hookworm Infections
+C536068	Hoyeraal Hreidarsson syndrome
+C536072	Hunter-McAlpine syndrome
+D006816	Huntington Disease
+D057770	Hyalinosis, Systemic
+C536075	Hyaloideoretinal degeneration of Wagner
+D006828	Hydatidiform Mole
+D006832	Hydranencephaly
+C536079	Hydrolethalus syndrome
+D015160	Hydrops Fetalis
+D006925	Hymenolepiasis
+D020162	Hyperargininemia
+D017681	Hypereosinophilic Syndrome
+C538137	Hyperferritinemia, hereditary, with congenital cataracts
+C538377	Hyperkeratosis lenticularis perstans
+D006952	Hyperlipoproteinemia Type III
+D020167	Hyperlysinemias
+D006959	Hyperoxaluria
+C564166	Hyperparathyroidism 1
+C538385	Hyperprolinemia type 2
+C566384	Hyperthyroidism, Familial Gestational
+D006983	Hypertrichosis
+C538388	Hypertrichosis congenital generalized X-linked
+D052456	Hypoalphalipoproteinemias
+D006995	Hypobetalipoproteinemias
+C537145	Hypocalciuric hypercalcemia, familial, type 1
+C537146	Hypocalciuric hypercalcemia, familial, type 2
+D020514	Hypokalemic Periodic Paralysis
+C537154	Hypomandibular faciocranial dysostosis
+C537156	Hypoparathyroidism familial isolated
+D007014	Hypophosphatasia
+D018636	Hypoplastic Left Heart Syndrome
+C537160	Hypotrichosis simplex
+D007057	Ichthyosis
+C537365	Ichthyosis and male hypogonadism
+D053560	Ichthyosis Bullosa of Siemens
+C536085	Ichthyosis follicularis atrichia photophobia syndrome
+C536088	Ichthyosis hystrix, Curth Macklin type
+C536087	Ichthyosis hystrix gravior
+D017490	Ichthyosis, Lamellar
+C536274	Ichthyosis, mental retardation, dwarfism, and renal impairment
+C536271	Ichthyosis prematurity syndrome
+D016114	Ichthyosis, X-Linked
+D054988	Idiopathic Interstitial Pneumonias
+C544351	Idiopathic orthostatic hypotension
+D054990	Idiopathic Pulmonary Fibrosis
+C536281	idiopathic pulmonary hemosiderosis
+C536285	Iminoglycinuria
+D007184	Incontinentia Pigmenti
+C535523	Infantile onset spinocerebellar ataxia
+D034062	Insomnia, Fatal Familial
+D007340	Insulinoma
+C535530	Interferon gamma, receptor 1, deficiency
+C531849	Intestinal lipophagic granulomatosis
+D044483	Intestinal Polyposis
+D002538	Intracranial Arteriovenous Malformations
+C535932	Intrahepatic Cholestasis of Pregnancy
+D057129	Iridocorneal Endothelial Syndrome
+C535537	Iris dysplasia hypertelorism deafness
+C535541	Isobutyryl-CoA dehydrogenase deficiency
+D021865	Isosporiasis
+C537559	Jackson-Weiss syndrome
+D054868	Jacobsen Distal 11q Deletion Syndrome
+C537564	Jansen type metaphyseal chondrodysplasia
+C537565	Jarcho-Levin syndrome
+D007566	Jaundice, Chronic Idiopathic
+D029593	Jervell-Lange Nielsen Syndrome
+C537571	Jeune syndrome
+C535880	Johanson Blizzard syndrome
+C535881	Johnson Munson syndrome
+C535882	Johnson neuroectodermal syndrome
+C537690	Juberg Hayward syndrome
+C537694	Jung Wolff Back Stahl syndrome
+C537705	Kabuki syndrome
+C537706	Kaler Garrity Stern syndrome
+D017436	Kallmann Syndrome
+C535547	Kantaputra Gorlin syndrome
+C537007	Kaposiform Hemangioendothelioma
+C537008	Kapur Toriello syndrome
+C537013	Kaufman oculocerebrofacial syndrome
+C537015	KBG syndrome
+D007625	Kearns-Sayre Syndrome
+C537020	Kenny-Caffey syndrome, type 2
+C537022	Keratitis, hereditary
+C536153	Keratoderma palmoplantar spastic paralysis
+C536155	Keratolytic winter erythema
+C536158	Keratosis follicularis dwarfism cerebral atrophy
+C536159	Keratosis Follicularis Spinulosa Decalvans, X-Linked
+C537627	Keratosis palmoplantaris with periodontopathia and onychogryposis
+C536167	Keutel syndrome
+C536883	King Denborough syndrome
+D018285	Klatskin Tumor
+D017593	Kleine-Levin Syndrome
+D007713	Klinefelter Syndrome
+D007715	Klippel-Trenaunay-Weber Syndrome
+D020232	Kluver-Bucy Syndrome
+C537207	Kniest dysplasia
+C537208	Kniest like dysplasia lethal
+C537209	Knobloch syndrome
+C537506	Kozlowski Brown Hardwick syndrome
+C538128	Kyphomelic dysplasia
+C538135	Ladda Zonana Ramer syndrome
+D020192	Lafora Disease
+D015624	Lambert-Eaton Myasthenic Syndrome
+C538396	Lambert syndrome
+D018887	Landau-Kleffner Syndrome
+D015826	Langer-Giedion Syndrome
+D054752	Langerhans Cell Sarcoma
+C537267	Langer mesomelic dysplasia
+D046150	Laron Syndrome
+C537872	Larsen like syndrome, lethal type
+D007815	Larva Migrans
+D055092	Laryngomalacia
+D007835	Lassa Fever
+C537880	Lathosterolosis
+C537881	Lattice corneal dystrophy type 1
+D007849	Laurence-Moon Syndrome
+C535689	Laurin-Sandrow syndrome
+D057130	Leber Congenital Amaurosis
+D007876	Legionellosis
+D007877	Legionnaires' Disease
+C548032	Legius syndrome
+D007888	Leigh Disease
+D007890	Leiomyosarcoma
+D007896	Leishmaniasis
+D057831	Lemierre Syndrome
+C537115	Lenz Majewski hyperostotic dwarfism
+D044542	LEOPARD Syndrome
+D007918	Leprosy
+D007922	Leptospirosis
+C537118	Leri pleonosteosis
+C537119	Leri-Weil syndrome
+D007926	Lesch-Nyhan Syndrome
+C537194	Lethal congenital contracture syndrome 1
+C535513	Lethal congenital erythroderma
+D015471	Leukemia, Basophilic, Acute
+D015456	Leukemia, Biphenotypic, Acute
+D007943	Leukemia, Hairy Cell
+D054066	Leukemia, Large Granular Lymphocytic
+D015451	Leukemia, Lymphocytic, Chronic, B-Cell
+D015459	Leukemia-Lymphoma, Adult T-Cell
+D007946	Leukemia, Mast-Cell
+D007948	Leukemia, Monocytic, Acute
+D015470	Leukemia, Myeloid, Acute
+D054438	Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative
+D015479	Leukemia, Myelomonocytic, Acute
+D015477	Leukemia, Myelomonocytic, Chronic
+D054429	Leukemia, Myelomonocytic, Juvenile
+D015467	Leukemia, Neutrophilic, Chronic
+D054403	Leukemia, Prolymphocytic, B-Cell
+D015461	Leukemia, Prolymphocytic, T-Cell
+D015473	Leukemia, Promyelocytic, Acute
+D018370	Leukocyte-Adhesion Deficiency Syndrome
+C535887	Leukocyte adhesion deficiency type 1
+D007966	Leukodystrophy, Metachromatic
+C567845	Leukoencephalopathy, Cystic, Without Megalencephaly
+D007968	Leukoencephalopathy, Progressive Multifocal
+C535889	Leukonychia totalis
+D007979	Levocardia
+C535892	Lichen planus follicularis
+D056929	Liddle Syndrome
+D016864	Li-Fraumeni Syndrome
+C535903	Limb-mammary syndrome
+D052496	Lipodystrophy, Familial Partial
+C537027	Lipoid congenital adrenal hyperplasia
+D008080	Liposarcoma
+D018208	Liposarcoma, Myxoid
+D054082	Lissencephaly
+D008088	Listeriosis
+D017114	Liver Failure, Acute
+D008118	Loiasis
+C535690	Long-chain acyl-CoA dehydrogenase deficiency
+D058247	Loose Anagen Hair Syndrome
+C545036	Low Molecular Weight Proteinuria with Hypercalciuria and Nephrocalcinosis
+C537037	Lowry Maclean syndrome
+C537038	Lowry Wood syndrome
+C537723	Lubs X-linked mental retardation syndrome
+D017563	Lung Diseases, Interstitial
+D008178	Lupus Erythematosus, Cutaneous
+D008179	Lupus Erythematosus, Discoid
+D008180	Lupus Erythematosus, Systemic
+D008193	Lyme Disease
+C537727	Lymphangiectasia, pulmonary, congenital
+D008201	Lymphangiectasis, Intestinal
+D018192	Lymphangioleiomyomatosis
+C537710	Lymphedema distichiasis syndrome
+C537711	Lymphedema, microcephaly and chorioretinopathy syndrome
+D008223	Lymphoma
+D018442	Lymphoma, B-Cell, Marginal Zone
+D054391	Lymphoma, Extranodal NK-T-Cell
+D008224	Lymphoma, Follicular
+D016403	Lymphoma, Large B-Cell, Diffuse
+D017728	Lymphoma, Large-Cell, Anaplastic
+D020522	Lymphoma, Mantle-Cell
+D008228	Lymphoma, Non-Hodgkin
+D054446	Lymphoma, Primary Cutaneous Anaplastic Large Cell
+D054685	Lymphoma, Primary Effusion
+D016410	Lymphoma, T-Cell, Cutaneous
+D016411	Lymphoma, T-Cell, Peripheral
+D008230	Lymphomatoid Granulomatosis
+D017731	Lymphomatoid Papulosis
+D008232	Lymphoproliferative Disorders
+D008260	Macroglossia
+D055501	Macrophage Activation Syndrome
+C537829	Macrophagic myofasciitis
+C537835	Macular dystrophy, retinal, 1, North Carolina type
+C535463	Mainzer-Saldino Disease
+C537839	Majeed syndrome
+D008288	Malaria
+C537840	Mal de debarquement
+C536297	Male sterility due to Y-chromosome deletions
+D054853	Malignant Atrophic Papulosis
+D008305	Malignant Hyperthermia
+C535702	Malonic aciduria
+C535705	Mandibuloacral dysplasia with type A lipodystrophy
+C535706	Mandibuloacral dysplasia with type B lipodystrophy
+D008342	Mandibulofacial Dysostosis
+D008375	Maple Syrup Urine Disease
+D054319	Marchiafava-Bignami Disease
+C535910	Marden-Walker syndrome
+D008382	Marfan Syndrome
+C535912	Marie Unna congenital hypotrichosis
+C536026	Marshall-Smith syndrome
+C536025	Marshall syndrome
+C536029	MASA (Mental Retardation, Aphasia, Shuffling Gait, Adducted Thumbs) Syndrome
+C536030	MASS syndrome
+D012515	Mast-Cell Sarcoma
+D054705	Mastocytoma, Skin
+D008415	Mastocytosis
+D034701	Mastocytosis, Cutaneous
+D034721	Mastocytosis, Systemic
+C538158	McDonough syndrome
+C538159	McKusick Kaufman syndrome
+D008471	Meconium Aspiration Syndrome
+C536136	Mediastinal Fibrosis
+C536038	Medium chain acyl CoA dehydrogenase deficiency
+D007691	Medullary Sponge Kidney
+D008527	Medulloblastoma
+C537451	MEHMO syndrome
+C538012	Meier-Gorlin syndrome
+D008538	Meige Syndrome
+D017241	MELAS Syndrome
+C537238	Melhem Fahl syndrome
+D008554	Melioidosis
+D008556	Melkersson-Rosenthal Syndrome
+D008557	Melorheostosis
+D008579	Meningioma
+D008585	Meningitis, Meningococcal
+D008586	Meningitis, Pneumococcal
+D008588	Meningocele
+C537457	Mental retardation-hypotonic facies syndrome, x-linked, 1
+C537450	Mental retardation X-linked, South African type
+C537449	Mental retardation X-linked syndromic 7
+D017243	MERRF Syndrome
+C537349	Mesomelic dwarfism Reinhardt Pfeiffer type
+D008654	Mesothelioma
+D008659	Metabolic Diseases
+D008661	Metabolism, Inborn Errors
+C537350	Metaphyseal acroscyphodysplasia
+C537351	Metaphyseal anadysplasia
+C537352	Metaphyseal chondrodysplasia Schmid type
+C537353	Metaphyseal chondrodysplasia Spahr type
+C537356	Metatropic dwarfism
+C537359	Methylmalonic acidemia with homocystinuria
+C537360	Methylmalonic aciduria cblA type
+C537361	Methylmalonic aciduria cblB type
+D054078	Mevalonate Kinase Deficiency
+C537575	Michelin tire baby syndrome
+C537321	Microcephalic primordial dwarfism Toriello type
+C537322	Microcephaly albinism digital anomalies syndrome
+C537323	Microcephaly autosomal dominant
+C537325	Microcephaly cervical spine fusion anomalies
+C537544	Microcephaly seizures mental retardation heart disorders
+C537550	Microcoria, congenital
+C537552	Microcornea, glaucoma, and absent frontal sinuses
+C537554	Microgastria limb reduction defect
+C537465	Microphthalmia, syndromic 2
+D055953	Microscopic Polyangiitis
+D016881	Microsporidiosis
+D008882	Mikulicz' Disease
+D019846	Miller Fisher Syndrome
+D043204	Mineralocorticoid Excess Syndrome, Apparent
+D028361	Mitochondrial Diseases
+D017240	Mitochondrial Myopathies
+C537476	Mitochondrial myopathy with lactic acidosis
+D008947	Mixed Connective Tissue Disease
+C537480	Miyoshi myopathy
+D020331	Mobius Syndrome
+C535808	Mohr-Tranebjaerg syndrome
+D056734	Monilethrix
+C535914	Mononen Karnes Senac syndrome
+C538482	Monosomy 5p
+C536984	MORM syndrome
+C536987	Mosaic variegated aneuploidy syndrome
+D016472	Motor Neuron Disease
+C536988	Motor neuropathy peripheral with dysautonomia
+C536990	Mowat-Wilson syndrome
+D009072	Moyamoya Disease
+C536991	Moyamoya disease 1
+D009081	Mucolipidoses
+C538602	Mucolipidosis 2
+D009083	Mucopolysaccharidoses
+D008059	Mucopolysaccharidosis I
+D016532	Mucopolysaccharidosis II
+D009084	Mucopolysaccharidosis III
+D009085	Mucopolysaccharidosis IV
+D009087	Mucopolysaccharidosis VI
+D016538	Mucopolysaccharidosis VII
+D009091	Mucormycosis
+C537369	Muenke Syndrome
+D055653	Muir-Torre Syndrome
+D050336	Mulibrey Nanism
+C537371	Mullerian aplasia
+D021782	Multicystic Dysplastic Kidney
+C537373	Multicystic renal dysplasia, bilateral
+D009100	Multiple Carboxylase Deficiency
+D018761	Multiple Endocrine Neoplasia Type 1
+D018813	Multiple Endocrine Neoplasia Type 2a
+D018814	Multiple Endocrine Neoplasia Type 2b
+D009101	Multiple Myeloma
+D019578	Multiple System Atrophy
+D009135	Muscular Diseases
+D009136	Muscular Dystrophies
+D049288	Muscular Dystrophies, Limb-Girdle
+D020388	Muscular Dystrophy, Duchenne
+D020389	Muscular Dystrophy, Emery-Dreifuss
+D039141	Muscular Dystrophy, Oculopharyngeal
+D009157	Myasthenia Gravis
+D020294	Myasthenic Syndromes, Congenital
+D008271	Mycetoma
+D054437	Myelodysplastic-Myeloproliferative Diseases
+D009190	Myelodysplastic Syndromes
+D009196	Myeloproliferative Disorders
+C535507	MYH9-Related Disorders
+D009198	Myiasis
+C536096	Myoclonic dystonia
+D020191	Myoclonic Epilepsies, Progressive
+D020190	Myoclonic Epilepsy, Juvenile
+D017696	Myopathies, Nemaline
+C536101	Myopathy with lactic acidosis and sideroblastic anemia
+D009221	Myositis Ossificans
+D020967	Myotonic Disorders
+D009223	Myotonic Dystrophy
+D009261	Nail-Patella Syndrome
+C538335	Nakamura Osame syndrome
+C538336	Nance-Horan syndrome
+D009290	Narcolepsy
+C538342	Nathalie syndrome
+C538343	Native American myopathy
+C538346	Naxos disease
+D058252	Necrobiotic Xanthogranuloma
+D009347	Nelson Syndrome
+C536394	Neonatal hemochromatosis
+D009394	Nephritis, Hereditary
+D018201	Nephroma, Mesoblastic
+C536401	Nephropathy deafness hyperparathyroidism
+C535761	Nephrosis, congenital
+C536402	Nephrosis deafness urinary tract digital malformation
+C536407	Neuhauser Eichner Opitz syndrome
+C536405	Neu Laxova syndrome
+C536408	Neural crest tumor
+D009436	Neural Tube Defects
+C536411	Neuraminidase deficiency with beta-galactosidase deficiency
+D009447	Neuroblastoma
+C537387	Neurocutaneous melanosis
+C538421	Neurodegeneration with brain iron accumulation (NBIA)
+C537388	Neurofaciodigitorenal syndrome
+C548080	Neuroferritinopathy
+D009456	Neurofibromatosis 1
+D016518	Neurofibromatosis 2
+C537393	Neurofibromatosis-Noonan syndrome
+D009459	Neuroleptic Malignant Syndrome
+D009464	Neuroma, Acoustic
+D009468	Neuromuscular Diseases
+D020511	Neuromuscular Junction Diseases
+D009471	Neuromyelitis Optica
+D009472	Neuronal Ceroid-Lipofuscinoses
+C537394	Neuronal intestinal pseudoobstruction
+C537395	Neuronal intranuclear inclusion disease
+C535716	Neuropathy, hereditary motor and sensory, LOM type
+C535717	Neuropathy, hereditary motor and sensory, Okinawa type
+C537592	Neutropenia, Severe Congenital, Autosomal Recessive 3
+C536113	Nevo syndrome
+D054000	Nevus, Sebaceous of Jadassohn
+D052536	Niemann-Pick Disease, Type A
+D052537	Niemann-Pick Disease, Type B
+D052556	Niemann-Pick Disease, Type C
+C536122	Night blindness, congenital stationary
+D049932	Nijmegen Breakage Syndrome
+C536943	NOG-Related-Symphalangism Spectrum Disorder
+D009625	Noma
+C536246	Noninsulin-dependent diabetes mellitus with deafness
+D009634	Noonan Syndrome
+C537848	Norman Roberts lissencephaly syndrome
+C537849	Norrie disease
+C536108	N syndrome
+C537860	Occipital horn syndrome
+C537862	Ochronosis, hereditary
+C537863	Ocular Albinism type 1
+C537866	Oculocerebral hypopigmentation syndrome type Preus
+C538088	Oculocerebrocutaneous syndrome
+D009800	Oculocerebrorenal Syndrome
+C537729	Oculocutaneous albinism type 1B
+C537730	Oculocutaneous albinism type 2
+C537732	Oculodental syndrome Rutherfurd syndrome
+C537736	Oculomaxillofacial dysostosis
+C537741	Odontomicronychial dysplasia
+C537742	Odontoonychodermal dysplasia
+C537743	Oguchi disease
+C537747	Omphalocele cleft palate syndrome lethal
+D009855	Onchocerciasis
+D015827	Onchocerciasis, Ocular
+D009879	Ophthalmia, Sympathetic
+C531833	Ophthalmoplegia, painful
+C537923	Opitz-Kaveggia syndrome
+C537122	Opsismodysplasia
+D053578	Opsoclonus-Myoclonus Syndrome
+C537128	Optic atrophy and cataract, autosomal dominant
+D029241	Optic Atrophy, Autosomal Dominant
+C538585	Oral-facial-digital syndrome, type 2
+D020163	Ornithine Carbamoyltransferase Deficiency Disease
+C548034	Orofaciodigital Syndrome 12
+C548035	Orofaciodigital Syndrome 13
+C537136	Oroticaciduria 1
+C537138	Oslam syndrome
+D010004	Osteoarthropathy, Primary Hypertrophic
+D018215	Osteoblastoma
+D010008	Osteochondritis Dissecans
+D010013	Osteogenesis Imperfecta
+C537558	Osteogenesis imperfecta congenita, microcephaly, and cataracts
+C536044	Osteogenesis imperfecta, type 3
+C536050	Osteoglophonic dwarfism
+C536051	Osteolysis hereditary multicentric
+C536053	Osteopathia striata cranial sclerosis
+D010022	Osteopetrosis
+C536056	Osteopetrosis autosomal dominant type 1
+C536058	Osteopetrosis with renal tubular acidosis
+C536061	Osteopoikilosis and dacryocystitis
+C536063	Osteoporosis-pseudoglioma syndrome
+D012516	Osteosarcoma
+C536064	Osteosclerosis with ichthyosis and premature ovarian failure
+C538089	Oto-palato-digital syndrome, type 2
+D016471	Ovarian Hyperstimulation Syndrome
+D050090	Ovotesticular Disorders of Sex Development
+D053549	Pachyonychia Congenita
+C538095	Pacman dysplasia
+D010145	Paget Disease, Extramammary
+D056267	Pagetoid Reticulosis
+D010144	Paget's Disease, Mammary
+D000699	Pain Insensitivity, Congenital
+D054975	Pallister-Hall Syndrome
+C536152	Palmoplantar Keratoderma with Deafness
+C538110	Pancreatic adenoma
+C535837	Pancreatic carcinoma, familial
+D010190	Pancreatic Neoplasms
+C537162	Pancreatoblastoma
+D015435	Panniculitis, Lupus Erythematosus
+D010201	Panniculitis, Nodular Nonsuppurative
+D006211	Pantothenate Kinase-Associated Neurodegeneration
+C538614	Papillary renal cell carcinoma, sporadic
+D020288	Papilloma, Choroid Plexus
+D010214	Papillon-Lefevre Disease
+D010229	Paracoccidioidomycosis
+D010245	Paralyses, Familial Periodic
+D020513	Paralysis, Hyperkalemic Periodic
+C537172	Parastremmatic dwarfism
+C537174	PARC syndrome
+D051302	Paroxysmal Hemicrania
+C537181	Paroxysmal nonkinesigenic dyskinesia
+C536112	Partial atrioventricular canal
+C538036	Partial Duplication 15q Syndrome
+C536299	Partington Anderson syndrome
+C536307	Patella aplasia, coxa vara, tarsal synostosis
+C536309	Patterned dystrophy of retinal pigment epithelium
+C536310	Patterson pseudoleprechaunism syndrome
+C536317	PEHO syndrome
+D020371	Pelizaeus-Merzbacher Disease
+D010383	Pellagra
+C535548	Pelvic dysplasia arthrogryposis of lower limbs
+C535550	Pelviscapular dysplasia
+D010391	Pemphigoid, Bullous
+D006559	Pemphigoid Gestationis
+C536648	Pendred syndrome
+C536649	Penis agenesis
+C536650	Penoscrotal transposition
+D058502	Pentalogy of Cantrell
+C536652	Pentosuria
+C538604	Pericardial constriction with growth failure
+D054091	Periventricular Nodular Heterotopia
+C536662	Peroxisomal ACYL-COA oxidase deficiency
+D018901	Peroxisomal Disorders
+C536664	Peroxisome biogenesis disorders
+D054514	Persistent Hyperplastic Primary Vitreous
+C536665	Persistent Mullerian duct syndrome
+C537884	Peters anomaly
+D010580	Peutz-Jeghers Syndrome
+C537889	Pfeiffer Palm Teller syndrome
+C538582	Pfeiffer type acrocephalosyndactyly
+C537893	Phacomatosis pigmentokeratotica
+D010661	Phenylketonurias
+C536654	Phosphoenolpyruvate carboxykinase deficiency
+D003557	Phyllodes Tumor
+D016116	Piebaldism
+C537185	Pierson syndrome
+C537187	Pili annulati
+C537398	Pili torti developmental delay neurological abnormalities
+C537399	Pili torti onychodysplasia
+D018296	Pilomatrixoma
+C537403	Pitt-Hopkins syndrome
+D047748	Pituitary ACTH Hypersecretion
+D010899	Pituitary Apoplexy
+D010916	Pityriasis Rubra Pilaris
+C537511	Piussan Lenaerts Mathieu syndrome
+D010930	Plague
+D010954	Plasmacytoma
+C537516	Pleuropulmonary blastoma
+D011004	Plummer-Vinson Syndrome
+D011009	Pneumoconiosis
+D016878	POEMS Syndrome
+C536321	Poikiloderma of Kindler
+D011045	Poland Syndrome
+D011051	Poliomyelitis
+D010488	Polyarteritis Nodosa
+D011081	Polychondritis, Relapsing
+D017044	Polycystic Kidney, Autosomal Recessive
+C536329	Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy
+C536330	Polycystic liver disease
+D011086	Polycythemia
+D011087	Polycythemia Vera
+D017689	Polydactyly
+D017285	Polymyositis
+C536335	Polyostotic osteolytic dysplasia, hereditary expansile
+D011123	Polyploidy
+C548069	Pontocerebellar Hypoplasia Type 1
+C548070	Pontocerebellar Hypoplasia Type 2
+C548072	Pontocerebellar Hypoplasia Type 3
+C548074	Pontocerebellar Hypoplasia Type 6
+D017499	Porokeratosis
+D017118	Porphyria, Acute Intermittent
+D017119	Porphyria Cutanea Tarda
+D017121	Porphyria, Hepatoerythropoietic
+D011164	Porphyrias
+D019339	Port-Wine Stain
+C536343	Posterior column ataxia with retinitis pigmentosa
+C538353	Potassium aggravated myotonia
+C538356	Potocki-Shaffer syndrome
+D019449	Pouchitis
+D011218	Prader-Willi Syndrome
+C538278	Preaxial deficiency, postaxial polydactyly and hypospadias
+C535276	Primary angiitis of the central nervous system
+C536414	Primary hyperoxaluria type 1
+C536416	Primary lateral sclerosis juvenile
+C536418	Primary orthostatic tremor
+D057178	Primary Progressive Nonfluent Aphasia
+D011371	Progeria
+C536422	Progeria short stature pigmented nevi
+C536423	Progeroid syndrome, neonatal
+C537240	Progressive supranuclear palsy atypical
+D015175	Prolactinoma
+D056732	Prolidase Deficiency
+C537241	Properdin deficiency, X-linked
+D056693	Propionic Acidemia
+C538052	Propping Zerres syndrome
+C537243	Prostate cancer, familial
+D016715	Proteus Syndrome
+D046351	Protoporphyria, Erythropoietic
+D011535	Prune Belly Syndrome
+C535817	Pruritic urticarial papules plaques of pregnancy
+C535819	Pseudoachondroplasia
+C535826	Pseudodiastrophic dysplasia
+D011546	Pseudohypoaldosteronism
+D011547	Pseudohypoparathyroidism
+C548075	Pseudohypoparathyroidism Type 1B
+C548076	Pseudohypoparathyroidism Type 1C
+C548077	Pseudohypoparathyroidism Type 2
+D011553	Pseudomyxoma Peritonei
+D011556	Pseudopseudohypoparathyroidism
+D011561	Pseudoxanthoma Elasticum
+C535818	Pseudo-Zellweger syndrome
+D011629	Puberty, Precocious
+D060545	Pudendal Neuralgia
+D018202	Pulmonary Blastoma
+D011666	Pulmonary Valve Stenosis
+D011668	Pulmonary Veno-Occlusive Disease
+D054970	Pure Autonomic Failure
+D011686	Purine-Pyrimidine Metabolism, Inborn Errors
+D055665	Purpura Fulminans
+D016553	Purpura, Thrombocytopenic, Idiopathic
+D011697	Purpura, Thrombotic Thrombocytopenic
+D058631	Pycnodysostosis
+C536251	Pyknoachondrogenesis
+C536252	Pyle disease
+D017511	Pyoderma Gangrenosum
+C536253	Pyogenic arthritis, pyoderma gangrenosum, and acne
+D052880	Pyomyositis
+C536254	Pyridoxine-dependent epilepsy
+D015324	Pyruvate Carboxylase Deficiency Disease
+D015325	Pyruvate Dehydrogenase Complex Deficiency Disease
+C536258	Pyruvate dehydrogenase phosphatase deficiency
+C536259	Qazi Markouizos syndrome
+D011778	Q Fever
+C536260	Quebec platelet disorder
+D011818	Rabies
+C536267	Radio renal syndrome
+C536270	Radioulnar synostosis retinal pigment abnormalities
+C535281	Radius absent anogenital anomalies
+C535283	Rambaud Galian syndrome
+C535285	Ramon Syndrome
+C535288	Rapadilino syndrome
+C535289	Rapp-Hodgkin syndrome
+C535290	Rasmussen Johnsen Thomsen syndrome
+C535291	Rasmussen subacute encephalitis
+D011906	Rat-Bite Fever
+C535292	Ray Peterson Scott syndrome
+C535297	Recurrent respiratory papillomatosis
+D012035	Refsum Disease
+D052919	Refsum Disease, Infantile
+D012061	Relapsing Fever
+C535520	Renal cysts and diabetes syndrome
+D059228	Renal Nutcracker Syndrome
+C538361	Reticular dysgenesis
+D058499	Retinal Dystrophies
+D058456	Retinal Telangiectasis
+D012174	Retinitis Pigmentosa
+D012175	Retinoblastoma
+D012178	Retinopathy of Prematurity
+D012185	Retroperitoneal Fibrosis
+D015518	Rett Syndrome
+D012202	Reye Syndrome
+D018335	Rhabdoid Tumor
+D012208	Rhabdomyosarcoma
+D018232	Rhabdomyosarcoma, Alveolar
+D018233	Rhabdomyosarcoma, Embryonal
+D012213	Rheumatic Fever
+C537609	Rhizomelic dysplasia Patterson Lowry type
+C537611	Rhizomelic syndrome
+C537612	RHYNS syndrome
+C535674	Richards-Rundle syndrome
+C535675	Richieri Costa Da Silva syndrome
+C535677	Richieri Costa Pereira syndrome
+C535683	Rigid spine syndrome
+C535487	Ring Chromosome 14 Syndrome
+C537636	Ring chromosome 4 syndrome
+C535684	Ring dermoid of cornea
+C535687	Roberts Syndrome
+C537183	Robinow Sorauf syndrome
+C535863	Robinow syndrome, autosomal recessive
+C535688	Robin sequence and oligodactyly
+D012373	Rocky Mountain Spotted Fever
+D029597	Romano-Ward Syndrome
+C535870	Rombo syndrome
+D011038	Rothmund-Thomson Syndrome
+D012410	Rubella Syndrome, Congenital
+D012415	Rubinstein-Taybi Syndrome
+C535878	Rud Syndrome
+C537189	Rufous oculocutaneous albinism
+C536320	Sabinas brittle hair syndrome
+C537218	Saccharopinuria
+D012497	Sandhoff Disease
+C537234	Sandifer syndrome
+D012523	Sarcocystosis
+D012507	Sarcoidosis
+D018234	Sarcoma, Alveolar Soft Part
+D018203	Sarcoma, Endometrial Stromal
+D012514	Sarcoma, Kaposi
+D023981	Sarcoma, Myeloid
+C537236	Sarcosinemia
+C536616	Satoyoshi syndrome
+C536618	Say Barber Miller syndrome
+C536622	Scalp defects postaxial polydactyly
+C536623	Scalp ear nipple syndrome
+C536625	SCARF syndrome
+C536629	Schimke immunoosseous dysplasia
+C536630	Schimke X-linked mental retardation syndrome
+C536633	Schisis association
+D012552	Schistosomiasis
+C535918	Schmid-Fraccaro syndrome
+C536637	Schneckenbecken dysplasia
+D019873	Schnitzler Syndrome
+C536641	Schwannomatosis
+D012587	Scimitar Syndrome
+D012594	Scleroderma, Localized
+D053718	Scleromyxedema
+C537525	Sclerosteosis
+D012612	Scrub Typhus
+C537533	Seckel syndrome 1
+C537536	Seemanova Lesny syndrome
+C537580	Senior Loken Syndrome
+C537197	Sensorimotor neuropathy with ataxia, autosomal dominant
+C537583	Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis
+D025962	Septo-Optic Dysplasia
+D020230	Serotonin Syndrome
+C537586	Serpentine fibula polycystic kidney syndrome
+D045169	Severe Acute Respiratory Syndrome
+D016511	Severe Combined Immunodeficiency
+C531816	Severe combined immunodeficiency due to adenosine deaminase deficiency
+D012751	Sezary Syndrome
+D012778	Short Bowel Syndrome
+C537596	Short chain Acyl CoA dehydrogenase deficiency
+D012779	Short Rib-Polydactyly Syndrome
+C537602	Short rib-polydactyly syndrome, Verma-Naumoff type
+C537121	Short stature syndrome, Brussels type
+C537327	SHORT syndrome
+C537328	Shprintzen Golberg craniosynostosis
+C537332	Sialuria, French type
+D012804	Sick Sinus Syndrome
+C537333	Siderius X-linked mental retardation syndrome
+C537335	Siegler Brewer Carey syndrome
+C537338	Sillence syndrome
+D056730	Silver-Russell Syndrome
+C537340	Simpson-Golabi-Behmel syndrome
+C537345	Sitosterolemia
+D016111	Sjogren-Larsson Syndrome
+D017445	Skin Diseases, Vascular
+D012893	Sleep Wake Disorders
+D019082	Smith-Lemli-Opitz Syndrome
+D058496	Smith-Magenis Syndrome
+D018860	Sneddon Syndrome
+C536677	Snowflake vitreoretinal degeneration
+D013005	Somatostatinoma
+D058495	Sotos Syndrome
+C536787	Spastic ataxia Charlevoix-Saguenay type
+C537482	Spastic paraplegia 10, autosomal dominant
+C537483	Spastic paraplegia 11, autosomal recessive
+C537484	Spastic paraplegia 12, autosomal dominant
+C537485	Spastic paraplegia 13, autosomal dominant
+C537486	Spastic paraplegia 14, autosomal recessive
+C536642	Spastic paraplegia 15, autosomal recessive
+C536643	Spastic paraplegia 16, X-linked
+C536856	Spastic paraplegia 19, autosomal dominant
+C536861	Spastic paraplegia 25, autosomal recessive
+C536862	Spastic paraplegia 26, autosomal recessive
+C536863	Spastic paraplegia 29, autosomal dominant
+C536857	Spastic paraplegia 2, X-linked
+C536864	Spastic paraplegia 3, autosomal dominant
+C536865	Spastic paraplegia 4, autosomal dominant
+C536866	Spastic paraplegia 6, autosomal dominant
+C536870	Spastic paraplegia neuropathy poikiloderma
+C536871	Spastic paraplegia type 5A, recessive
+C536874	Spastic paraplegia with precocious puberty
+D013103	Spherocytosis, Hereditary
+D013106	Sphingolipidoses
+D016135	Spinal Dysraphism
+C537195	Spinocerebellar ataxia 13
+C537196	Spinocerebellar ataxia 14
+C537198	Spinocerebellar ataxia 19
+C537199	Spinocerebellar ataxia 20
+C537200	Spinocerebellar ataxia 21
+C542540	Spinocerebellar ataxia 22
+C537201	Spinocerebellar ataxia 23
+C537202	Spinocerebellar ataxia 25
+C537203	Spinocerebellar ataxia 26
+C537204	Spinocerebellar ataxia 27
+C537205	Spinocerebellar ataxia 28
+C537206	Spinocerebellar Ataxia 29
+C537307	Spinocerebellar ataxia 8
+C537315	Spinocerebellar ataxia, X-linked, 3
+C537316	Spinocerebellar ataxia, X-linked, 4
+C537319	Split hand split foot nystagmus
+C535779	Spondylocamptodactyly
+C535781	Spondylocostal dysostosis, autosomal recessive
+C535782	Spondyloenchondrodysplasia
+C535785	Spondyloepimetaphyseal dysplasia, Genevieve type
+C535783	Spondyloepimetaphyseal dysplasia with hypotrichosis
+C535784	Spondyloepimetaphyseal dysplasia with multiple dislocations
+C535788	Spondyloepiphyseal dysplasia, congenita
+C535789	Spondyloepiphyseal dysplasia, Omani type
+C535795	Spondylometaphyseal dysplasia, axial
+C535793	Spondylometaphyseal dysplasia, 'corner fracture' type
+C535797	Spondylometaphyseal dysplasia, Kozlowski type
+C535798	Spondylometaphyseal dysplasia, Sedaghatian type
+C535791	Spondylometaphyseal dysplasia with bowed forearms and facial dysmorphism
+C535799	Spondyloperipheral dysplasia short ulna
+D013174	Sporotrichosis
+C535802	Sprengel deformity
+D013206	Staphylococcal Scalded Skin Syndrome
+C537487	Steatocystoma multiplex with natal teeth
+C537489	Sternal cleft
+C537488	Stern Lubinsky Durrie syndrome
+D013262	Stevens-Johnson Syndrome
+C537492	Stickler syndrome, type 1
+C537493	Stickler syndrome, type 2
+C537494	Stickler syndrome, type 3
+D016706	Still's Disease, Adult-Onset
+C537496	Stoelinga de Koomen Davis syndrome
+D013322	Strongyloidiasis
+D013341	Sturge-Weber Syndrome
+C537502	Stuve-Wiedemann syndrome
+C537503	Subcutaneous panniculitis-like T-cell lymphoma
+C538139	Sucrase-isomaltase deficiency, congenital
+C538142	Summitt syndrome
+D050798	SUNCT Syndrome
+D013494	Supranuclear Palsy, Progressive
+D055955	Susac Syndrome
+D016463	Sweet Syndrome
+D013576	Syndactyly
+C538153	Syndactyly, type 2
+C538154	Syndactyly, type 3
+C538155	Syndactyly, type v
+D013586	Synovitis, Pigmented Villonodular
+D013595	Syringomyelia
+D056647	Systemic Vasculitis
+D013625	Takayasu Arteritis
+D013631	Tangier Disease
+C536942	TARP syndrome
+C536945	Taurodontia absent teeth sparse hair
+D013661	Tay-Sachs Disease
+C536948	Teebi Kaurah syndrome
+C536950	Teebi Shaltout syndrome
+C536952	Teeth noneruption of with maxillary hypoplasia and genu valgum
+C536953	Tel Hashomer camptodactyly syndrome
+C536956	Temporal epilepsy, familial
+C536959	Temtamy syndrome
+D013724	Teratoma
+D013742	Tetanus
+C536500	Tetraamelia multiple malformations
+D013771	Tetralogy of Fallot
+D057891	Tetraploidy
+C536502	Tetrasomy X
+C536506	Thanatophoric dysplasia Glasgow variant
+C536510	Thiamine responsive megaloblastic anemia syndrome
+C536514	Thomas syndrome
+D013901	Thoracic Outlet Syndrome
+C536517	Thoracolaryngopelvic dysplasia
+D013920	Thrombocythemia, Essential
+C536900	Thrombomodulin anomalies, familial
+D057049	Thrombotic Microangiopathies
+C536901	Thrombotic thrombocytopenic purpura, acquired
+C536904	Thumb deformity, alopecia, pigmentation anomaly
+C536905	Thymic epithelial tumor
+C536907	Thymic-Renal-Anal-Lung dysplasia
+D013945	Thymoma
+C536914	Thyroid cancer, medullary
+C536918	Tibia absent polydactyly arachnoid cyst
+C536919	Tietz syndrome
+C536962	Timothy syndrome
+D020333	Tolosa-Hunt Syndrome
+D020254	Tooth Ankylosis
+C536970	Torticollis keloids cryptorchidism renal dysplasia
+C536974	Townes-Brocks syndrome
+D014120	Toxocariasis
+D014125	Toxoplasmosis, Congenital
+C536975	Tracheal agenesis
+D014137	Tracheobronchomegaly
+C536979	Transient bullous dermolysis of the newborn
+C536980	Transient erythroblastopenia of childhood
+C536544	Treft Sanborn Carey syndrome
+D014205	Trench Fever
+D014235	Trichinellosis
+C536551	Trichodental syndrome
+C536549	Tricho-dento-osseous syndrome
+C536553	Trichofolliculoma
+D054463	Trichothiodystrophy Syndromes
+D018785	Tricuspid Atresia
+D051303	Trigeminal Autonomic Cephalalgias
+D014277	Trigeminal Neuralgia
+C536564	Triphalangeal thumbs brachyectrodactyly
+D057885	Triploidy
+D014314	Trisomy
+C536796	Trisomy 22 mosaicism syndrome
+D018245	Trophoblastic Tumor, Placental Site
+D014353	Trypanosomiasis, African
+D014376	Tuberculosis
+D014402	Tuberous Sclerosis
+C536922	Tubulointerstitial nephritis and uveitis
+C536924	Tufted angioma
+D014406	Tularemia
+D058285	Tungiasis
+D014424	Turner Syndrome
+D014438	Typhus, Epidemic Louse-Borne
+C536932	Uhl anomaly
+C536934	Ulna hypoplasia with mental retardation
+C536935	Ulna metaphyseal dysplasia syndrome
+C536936	Ulnar hypoplasia lobster claw deformity of feet
+C536937	Ulnar-mammary syndrome
+C536938	Umbilical cord ulceration and intestinal atresia
+C536939	Uncombable hair syndrome
+C536471	Uniparental disomy, paternal, chromosome 14
+D020194	Unverricht-Lundborg Syndrome
+C536472	Upington disease
+D014496	Urachal Cyst
+C536477	Urethral obstruction sequence
+C536480	Urofacial syndrome
+D014582	Urticaria Pigmentosa
+D052245	Usher Syndromes
+C536494	Uveal melanoma
+D014605	Uveitis
+C536495	VACTERL association
+C536525	Valproic acid antenatal infection
+C536528	Van der Woude syndrome
+D014657	Vasculitis
+D020293	Vasculitis, Central Nervous System
+C536533	Vasquez Hurst Sotos syndrome
+C536534	VATER association
+C536535	Vein of Galen aneurysm
+C536541	Verloove-Vanhorick Brubakk syndrome
+C536344	Vertebral fusion posterior lumbosacral blepharoptosis
+D003969	Vipoma
+C536350	Visceral myopathy familial external ophthalmoplegia
+C536352	Vitreoretinochoroidopathy
+D006623	von Hippel-Lindau Disease
+D014842	von Willebrand Diseases
+D056725	von Willebrand Disease, Type 1
+D056728	von Willebrand Disease, Type 2
+D056729	von Willebrand Disease, Type 3
+D014849	Waardenburg Syndrome
+C536463	Waardenburg syndrome type 2
+D017624	WAGR Syndrome
+D008258	Waldenstrom Macroglobulinemia
+C536567	Waldmann disease
+C536568	Walker Dyson syndrome
+D058494	Walker-Warburg Syndrome
+D014884	Waterhouse-Friderichsen Syndrome
+C536687	Weaver syndrome
+D056846	Weill-Marchesani Syndrome
+C537082	Weismann Netter syndrome
+C536690	Welander distal myopathy, Swedish type
+C536693	Wells syndrome
+D014898	Werner Syndrome
+C536695	Weyers acrofacial dysostosis
+C536697	WHIM syndrome
+D008061	Whipple Disease
+C536700	White forelock with malformations
+D014917	Whooping Cough
+C536703	Wieacker syndrome
+D018980	Williams Syndrome
+D009396	Wilms Tumor
+C536711	Winship Viljoen Leary syndrome
+D014923	Wiskott-Aldrich Syndrome
+D014924	Wissler's Syndrome
+C536739	Wolcott-Rallison syndrome
+D054877	Wolf-Hirschhorn Syndrome
+D014929	Wolfram Syndrome
+D015223	Wolman Disease
+C536742	Woodhouse Sakati syndrome
+C536745	Woolly hair, congenital
+C536746	Woolly hair, hypotrichosis, everted lower lip and outstanding ears
+C536747	Worster Drought syndrome
+C536750	Wrinkly skin syndrome
+C536751	WT limb blood syndrome
+C536752	Wyburn Mason's syndrome
+D014972	Xanthogranuloma, Juvenile
+D019294	Xanthomatosis, Cerebrotendinous
+D014983	Xeroderma Pigmentosum
+C536766	Xeroderma pigmentosum, variant type
+C536767	XK aprosencephaly
+C536760	X-linked mental retardation type Wittwer
+C536761	X-linked sideroblastic anemia
+D014997	XYY Karyotype
+D015004	Yellow Fever
+C536771	Yemenite deaf-blind hypopigmentation syndrome
+D015009	Yersinia Infections
+C536716	Young McKeever Squier syndrome
+C536718	Young Syndrome
+C536719	Yunis Varon syndrome
+D015211	Zellweger Syndrome
+C536726	Zlotogora-Ogur syndrome
+D015043	Zollinger-Ellison Syndrome
+D020096	Zygomycosis

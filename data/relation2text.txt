@@ -1,0 +1,31 @@
+activates	activates
+blocks	blocks
+binds	binds
+increases_expression	increases expression
+decreases_expression	decreases expression
+affects_expression	affects expression
+inhibits	inhibits
+transport,	transport,
+metabolism	metabolism
+enzyme_activity	enzyme activity
+treatment	treatment
+inhibits_cell_growth	inhibits cell growth
+side_effect	side effect
+suppresses	suppresses
+alleviates	alleviates
+role_in_disease_pathogenesis	role in disease pathogenesis
+progression_biomarker	progression biomarker
+causal_mutation	causal mutation
+mutations_affecting_disease	mutations affecting disease
+drug_target	drug target
+therapeutic_effect	therapeutic effect
+polymorphisms_alter_risk	polymorphisms alter risk
+promotes_progression	promotes progression
+diagnostic_biomarker	diagnostic biomarker
+overexpression	overexpression
+improper_regulation	improper regulation
+enhances	enhances
+signals	signals
+same_complex	same complex
+regulates	regulates
+production	production
