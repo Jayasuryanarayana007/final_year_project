@@ -1,0 +1,139 @@
+# Novelty Tracker — GNBR Drug Repurposing Project
+
+> This document tracks all novelty enhancements made to the GNBR Drug Repurposing project.
+> Each entry records **what was changed**, **why it's novel**, **which files were modified**, and **results** (once evaluated).
+
+---
+
+## Baseline Performance (Before Any Novelty)
+
+These are the results from the original project — no novelty applied.
+
+| Model | Accuracy | Precision | Recall | F1 | Config |
+|---|---|---|---|---|---|
+| **biobert-tiny (our run)** | **0.9226** | 0.8852 | 0.9712 | 0.9262 | batch=64, desc=True, uncertainty=False |
+| BioBERT (paper) | 0.947 | 0.921 | 0.979 | 0.949 | batch=64, desc=True |
+| TinyBioBERT (paper) | 0.940 | 0.917 | 0.968 | 0.942 | batch=64, desc=True |
+| TransE baseline (paper) | 0.921 | 0.914 | 0.935 | 0.925 | — |
+| DistMult baseline (paper) | 0.915 | 0.921 | 0.928 | 0.925 | — |
+
+**Baseline command:**
+```bash
+python main.py --task TC --plm biobert-tiny --batch_size 64 --epoch 50 --load_descriptions
+```
+
+**Baseline confusion matrix (4,368 test triples):**
+```
+              Predicted 0    Predicted 1
+Actual 0        1909            275
+Actual 1          63           2121
+```
+
+---
+
+## Novelty #1: Degree-Aware Ensemble Scoring (LM + TransE)
+
+**Date:** 2026-05-06
+
+### What Is It?
+
+A learned blending of two scoring systems — Language Model (BioBERT) and TransE structural embeddings — where the blend weights are **conditioned on entity degree** (how many connections an entity has in the knowledge graph).
+
+### Why Is It Novel?
+
+1. The original LMKE paper treats LM and structural scoring as **either/or** (`--use_structure` replaces LM or uses only TransE). No blending exists.
+2. The codebase had **dead code** — `ensemble_weights_pred_h/r/t` layers defined in `model.py` (lines 50-52) but **never called anywhere**. We activated them.
+3. **Degree-awareness** is the key insight: rare diseases and obscure drugs have low degree (few connections), so the LM's text understanding should dominate. Well-studied entities have rich graph structure, so TransE should contribute more. The model **learns this tradeoff automatically**.
+
+### How It Works
+
+```
+Triple: (cortisone, treatment, malaria)
+            │
+    ┌───────┴───────┐
+    │               │
+  LM Score      TransE Score
+ (BioBERT)     (h + r ≈ t?)
+    │               │
+    └───────┬───────┘
+            │
+   Ensemble Weights  ← degree_features = [log(deg_h), log(deg_t)]
+   (learned linear)
+            │
+   weights = softmax([w_lm, w_transe])
+            │
+   final = w_lm × lm_preds + w_transe × transe_preds
+```
+
+### Files Modified
+
+| File | Change | Lines |
+|---|---|---|
+| `model.py` | Added `score_triples_transe_tc()` — per-triple TransE scoring for TC mode | +18 lines |
+| `model.py` | Added `ensemble_score()` — degree-aware blending of LM + TransE | +48 lines |
+| `trainer.py` | Integrated ensemble in TC training loop | +3 lines (line ~190) |
+| `trainer.py` | Integrated ensemble in TC evaluation/inference | +3 lines (line ~465) |
+| `main.py` | Added `--ensemble` CLI flag | +3 lines |
+
+### How To Run
+
+```bash
+# Train WITH ensemble (novelty)
+python main.py \
+    --task TC \
+    --ensemble \
+    --plm biobert-tiny \
+    --batch_size 64 \
+    --epoch 50 \
+    --load_descriptions
+
+# Train WITHOUT ensemble (baseline comparison)
+python main.py \
+    --task TC \
+    --plm biobert-tiny \
+    --batch_size 64 \
+    --epoch 50 \
+    --load_descriptions
+```
+
+### Results
+
+| Metric | Baseline | With Ensemble | Change |
+|---|---|---|---|
+| Accuracy | 0.9226 | ⏳ *pending* | — |
+| Precision | 0.8852 | ⏳ *pending* | — |
+| Recall | 0.9712 | ⏳ *pending* | — |
+| F1 | 0.9262 | ⏳ *pending* | — |
+
+> **Status:** ✅ Implemented, ⏳ Awaiting training run on Kaggle GPU
+
+### Git Commit
+```
+f467b77 - Feature: Degree-aware ensemble scoring (LM + TransE)
+```
+
+---
+
+## Novelty #2: *(Planned — Not Yet Implemented)*
+
+*Reserved for next novelty enhancement.*
+
+---
+
+## Summary Table
+
+| # | Novelty | Status | Accuracy Δ | Commit |
+|---|---|---|---|---|
+| 1 | Degree-Aware Ensemble (LM + TransE) | ✅ Implemented, ⏳ Results pending | — | `f467b77` |
+| 2 | — | — | — | — |
+| 3 | — | — | — | — |
+
+---
+
+## How To Update This File
+
+After each novelty implementation:
+1. Add a new `## Novelty #N` section with the template above
+2. Fill in the **Results** table after training completes
+3. Update the **Summary Table** at the bottom
+4. Commit this file along with the code changes
