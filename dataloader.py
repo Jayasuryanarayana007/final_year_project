@@ -71,9 +71,9 @@ class DataSampler(object):
         whole_dataset_set = set(self.whole_dataset)
 
         if self.mode == 'train':
-            random_ratio = 1  # 1/3
-            constrain_ratio = 0  # 1/3
-            reverse_ratio = 0  # 1/3
+            random_ratio = 0.5  # 50% random
+            constrain_ratio = 0.5  # 50% relation-aware constrained
+            reverse_ratio = 0  # 0% reverse
             viewable = 'train'
             viewable_set = pos_dataset_set
         else:
