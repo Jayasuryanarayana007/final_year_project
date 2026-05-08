@@ -114,7 +114,48 @@ f467b77 - Feature: Degree-aware ensemble scoring (LM + TransE)
 
 ---
 
-## Novelty #2: *(Planned — Not Yet Implemented)*
+## Novelty #2: Drug Candidate Ranking (Link Prediction for Drug Repurposing)
+
+**Date:** 2026-05-08
+
+### What Is It?
+
+A standalone drug candidate ranking pipeline (`rank_drug_candidates.py`) that repurposes the trained Triple Classification (TC) model to rank unknown drug candidates for any given disease.
+
+### Why Is It Novel?
+
+1. **Stated Future Work**: The original LMKE paper explicitly stated that *"Important future work should focus on link prediction to enable models to suggest top drug candidates for certain diseases."*
+2. **Repurposing the TC Model**: Using a trained triple classifier as a drug ranker is a creative application not explored in the original paper. We can reuse the `params/tc/` checkpoints directly without needing to retrain a massive Link Prediction model.
+3. **Actionable Clinical Output**: Instead of just outputting `accuracy`, the system now outputs actionable, ranked lists of novel drug candidates. It also automatically splits "known treatments" (from the knowledge graph) from "novel predictions".
+
+### Files Modified
+
+| File | Change | Lines |
+|---|---|---|
+| `rank_drug_candidates.py` | [NEW] Standalone drug ranking script | +400 lines |
+
+### How To Run
+
+List all available diseases:
+```bash
+python rank_drug_candidates.py --list_diseases
+```
+
+Rank drugs for a specific disease (e.g., malaria):
+```bash
+python rank_drug_candidates.py --disease malaria --top_k 20 --show_known
+```
+
+### Results
+
+Testing on `malaria` yielded 6,076 candidates scored in 15.9s on CPU.
+Mean score for known treatments was significantly higher (0.88) compared to novel predictions (0.57).
+
+> **Status:** ✅ Implemented, 💾 Results saved in `predictions/`
+
+---
+
+## Novelty #3: *(Planned — Not Yet Implemented)*
 
 *Reserved for next novelty enhancement.*
 
@@ -125,7 +166,7 @@ f467b77 - Feature: Degree-aware ensemble scoring (LM + TransE)
 | # | Novelty | Status | Accuracy Δ | Commit |
 |---|---|---|---|---|
 | 1 | Degree-Aware Ensemble (LM + TransE) | ✅ Implemented, ⏳ Results pending | — | `f467b77` |
-| 2 | — | — | — | — |
+| 2 | Drug Candidate Ranking Pipeline | ✅ Implemented | — | pending |
 | 3 | — | — | — | — |
 
 ---
