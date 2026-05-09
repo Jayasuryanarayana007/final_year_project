@@ -176,6 +176,11 @@ class LMKE(nn.Module):
 
 		return scores
 
+	def score_triples_distmult(self, h_embs, r_embs, t_embs):
+		scores = (h_embs * r_embs * t_embs).sum(dim=-1)
+
+		return scores
+
 	def score_triples_rotate(self, h_embs, r_embs, t_embs, mode):
 		h_embs_re = h_embs[:, :, :, 0]
 		h_embs_im = h_embs[:, :, :, 1]
@@ -227,6 +232,35 @@ class LMKE(nn.Module):
 			triple_score = self.score_triples_transe(can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]), r_embs.unsqueeze(1), t_embs.unsqueeze(1))
 		elif mode in ['link_prediction_t', 'tail']:
 			triple_score = self.score_triples_transe(h_embs.unsqueeze(1), r_embs.unsqueeze(1), can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]))
+
+		return triple_score
+
+	def forward_distmult(self, positions, mode):
+		batch_size = len(positions)
+		device = self.lm_model_given.device
+
+		h_idx = torch.LongTensor([positions[i]['head'][0] for i in range(batch_size)]).to(device)
+		r_idx = torch.LongTensor([positions[i]['rel'][0]  for i in range(batch_size)]).to(device)
+		t_idx = torch.LongTensor([positions[i]['tail'][0] for i in range(batch_size)]).to(device)
+
+		h_emb_list = []
+		r_emb_list = []
+		t_emb_list = []
+		for i in range(batch_size):
+			h_emb_list.append(self.ent_embeddings_transe(h_idx[i]).unsqueeze(0))
+			r_emb_list.append(self.rel_embeddings_transe(r_idx[i]).unsqueeze(0))
+			t_emb_list.append(self.ent_embeddings_transe(t_idx[i]).unsqueeze(0))
+
+		h_embs = torch.cat(h_emb_list, dim=0)
+		r_embs = torch.cat(r_emb_list, dim=0)
+		t_embs = torch.cat(t_emb_list, dim=0)
+
+		can_ent_emb = self.ent_embeddings_transe(torch.LongTensor(list(i for i in range(self.n_ent))).to(device))
+
+		if mode in ['link_prediction_h', 'head']:
+			triple_score = self.score_triples_distmult(can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]), r_embs.unsqueeze(1), t_embs.unsqueeze(1))
+		elif mode in ['link_prediction_t', 'tail']:
+			triple_score = self.score_triples_distmult(h_embs.unsqueeze(1), r_embs.unsqueeze(1), can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]))
 
 		return triple_score
 
