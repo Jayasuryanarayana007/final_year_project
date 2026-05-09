@@ -58,6 +58,7 @@ if __name__ == '__main__':
                         help='self adversarial negative sampling')
     parser.add_argument('--no_use_lm', default=False, action='store_true')
     parser.add_argument('--use_structure', default=False, action='store_true')
+    parser.add_argument('--kge_model', type=str, default='transe', choices=['transe', 'distmult'])
     parser.add_argument('--contrastive', default=False, action='store_true')
     parser.add_argument('--wandb', default=False, action='store_true')
     parser.add_argument('--load_descriptions', default=False, action='store_true')
@@ -205,6 +206,7 @@ if __name__ == '__main__':
         'p_tuning': arg.p_tuning,
         'rdrop': arg.rdrop,
         'use_structure': arg.use_structure,
+        'kge_model': arg.kge_model,
         'self_adversarial': arg.self_adversarial,
         'no_use_lm': arg.no_use_lm,
         'contrastive': arg.contrastive,

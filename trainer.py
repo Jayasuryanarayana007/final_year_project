@@ -189,9 +189,15 @@ class Trainer:
 
                         preds = model(inputs, positions, mode, triple_degrees)
                         if hyperparams['use_structure']:
-                            triple_score = model.forward_transe(positions, mode).squeeze()
-
-                            preds_transe = (margin - triple_score).sigmoid().unsqueeze(0)
+                            if hyperparams.get('kge_model', 'transe') == 'distmult':
+                                triple_score = model.forward_distmult(positions, mode).squeeze()
+                                preds_transe = triple_score.sigmoid()
+                            else:
+                                triple_score = model.forward_transe(positions, mode).squeeze()
+                                preds_transe = (margin - triple_score).sigmoid()
+                            
+                            if len(preds_transe.shape) == 1:
+                                preds_transe = preds_transe.unsqueeze(0)
 
                             if hyperparams['no_use_lm']:
                                 preds = preds_transe
@@ -311,8 +317,12 @@ class Trainer:
                             preds_list.append(preds)
 
                         if hyperparams['use_structure']:
-                            triple_score = model.forward_transe(real_positions, mode)
-                            preds_transe = (margin - triple_score).sigmoid()
+                            if hyperparams.get('kge_model', 'transe') == 'distmult':
+                                triple_score = model.forward_distmult(real_positions, mode)
+                                preds_transe = triple_score.sigmoid()
+                            else:
+                                triple_score = model.forward_transe(real_positions, mode)
+                                preds_transe = (margin - triple_score).sigmoid()
 
                             if hyperparams['contrastive']:
                                 preds_transe = preds_transe[:, target_idxs]
@@ -460,9 +470,15 @@ class Trainer:
                         preds = model(inputs, positions, mode, triple_degrees)
 
                         if hyperparams['use_structure']:
-                            triple_score = model.forward_transe(positions, mode).squeeze()
-
-                            preds_transe = (margin - triple_score).sigmoid().unsqueeze(0)
+                            if hyperparams.get('kge_model', 'transe') == 'distmult':
+                                triple_score = model.forward_distmult(positions, mode).squeeze()
+                                preds_transe = triple_score.sigmoid()
+                            else:
+                                triple_score = model.forward_transe(positions, mode).squeeze()
+                                preds_transe = (margin - triple_score).sigmoid()
+                            
+                            if len(preds_transe.shape) == 1:
+                                preds_transe = preds_transe.unsqueeze(0)
 
                             if hyperparams['no_use_lm']:
                                 preds = preds_transe
@@ -634,9 +650,15 @@ class Trainer:
                         preds = sigmoid(preds)
 
                     if hyperparams['use_structure']:
-                        triple_score = model.forward_transe(positions, mode).squeeze()
-
-                        preds_transe = (margin - triple_score).sigmoid().unsqueeze(0)
+                        if hyperparams.get('kge_model', 'transe') == 'distmult':
+                            triple_score = model.forward_distmult(positions, mode).squeeze()
+                            preds_transe = triple_score.sigmoid()
+                        else:
+                            triple_score = model.forward_transe(positions, mode).squeeze()
+                            preds_transe = (margin - triple_score).sigmoid()
+                        
+                        if len(preds_transe.shape) == 1:
+                            preds_transe = preds_transe.unsqueeze(0)
 
                         if hyperparams['no_use_lm']:
                             preds = preds_transe

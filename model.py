@@ -232,6 +232,10 @@ class LMKE(nn.Module):
 			triple_score = self.score_triples_transe(can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]), r_embs.unsqueeze(1), t_embs.unsqueeze(1))
 		elif mode in ['link_prediction_t', 'tail']:
 			triple_score = self.score_triples_transe(h_embs.unsqueeze(1), r_embs.unsqueeze(1), can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]))
+		elif mode == 'triple_classification':
+			triple_score = self.score_triples_transe(h_embs, r_embs, t_embs)
+		else:
+			triple_score = self.score_triples_transe(h_embs, r_embs, t_embs)
 
 		return triple_score
 
@@ -261,6 +265,10 @@ class LMKE(nn.Module):
 			triple_score = self.score_triples_distmult(can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]), r_embs.unsqueeze(1), t_embs.unsqueeze(1))
 		elif mode in ['link_prediction_t', 'tail']:
 			triple_score = self.score_triples_distmult(h_embs.unsqueeze(1), r_embs.unsqueeze(1), can_ent_emb.expand(batch_size, can_ent_emb.shape[0], can_ent_emb.shape[1]))
+		elif mode == 'triple_classification':
+			triple_score = self.score_triples_distmult(h_embs, r_embs, t_embs)
+		else:
+			triple_score = self.score_triples_distmult(h_embs, r_embs, t_embs)
 
 		return triple_score
 
