@@ -37,7 +37,7 @@ if __name__ == '__main__':
     parser.add_argument('--weight_decay', type=float, default=1e-7)
 
     parser.add_argument('--data', type=str, default='rare-disease')
-    parser.add_argument('--plm', type=str, default='biobert', choices=['tiny', 'biobert', 'tiny-squared', 'biobert-tiny'])
+    parser.add_argument('--plm', type=str, default='biobert-tiny', choices=['tiny', 'biobert', 'tiny-squared', 'biobert-tiny'])
     parser.add_argument('--description', type=str, default='desc')
 
     parser.add_argument('--load_path', type=str, default=None)
